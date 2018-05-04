@@ -1,0 +1,65 @@
+[   {
+          "text": "Τι βλέπεις σε αυτή την εικόνα;",
+          "image" : "images/b_10/yliko-hy-02/cpu.png",
+          "answer" : "Επεξεργαστή",
+          "answer_to_correct" : "ΔΙΩ",
+          "hints" : "1,4",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Τι βλέπεις σε αυτή την εικόνα;",
+          "image" : "images/b_10/yliko-hy-02/cpu-fan.png",
+          "answer" : "Ψύκτρα",
+          "answer_to_correct" : "ΔΙΩ",
+          "hints" : "0,2",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ο επεξεργαστής είναι το ____ του υπολογιστή. ",
+          "image" : "images/b_10/yliko-hy-02/cpu.png",
+          "answer" : "Μυαλό",
+          "answer_to_correct" : "Όχι",
+          "hints" : "1",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Η ψύκτρα τοποθετείται ____ από τον επεξεργαστή.",
+          "image" : "images/b_10/yliko-hy-02/cpu-fan.png",
+          "answer" : "Πάνω",
+          "answer_to_correct" : "ΕΞΗ",
+          "hints" : "2",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ο επεξεργαστής κάνει γρήγορα τις αριθμητικές ____",
+          "image" : "images/b_10/yliko-hy-02/cpu.png",
+          "answer" : "Πράξεις",
+          "answer_to_correct" : "ΑΤΠΕ",
+          "hints" : "1",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Η ψύκτρα μπαίνει πάνω από τον επεξεργαστή για να τον κρατά _____",
+          "image" : "images/b_10/yliko-hy-02/cpu-fan.png",
+          "answer" : "Δροσερό",
+          "answer_to_correct" : "ΩΚΤΟ",
+          "hints" : "1,6,7,8",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ένας υπολογιστής μπορεί να λειτουργήσει χωρίς επεξεργαστή. Σωστό ή λάθος;",
+          "image" : "images/b_10/yliko-hy-02/cpu.png",
+          "answer" : "Λάθος",
+          "answer_to_correct" : "ΑΙΝΝΕ",
+          "hints" : "3",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ο επξεργαστής δεν μπορεί να λειτουργήσει χωρίς ψύκτρα Σωστό ή λάθος;",
+          "image" : "images/b_10/yliko-hy-02/cpu-fan.png",
+          "answer" : "Σωστό",
+          "answer_to_correct" : "ΑΙΝΝΕ",
+          "hints" : "2,3",
+          "disabled_hints" : "yes"
+    }
+]

@@ -1,0 +1,41 @@
+[   {
+          "text": "Χρησιμοποίησέ με για να κινήσεις τον δείκτη στην οθόνη. (Κεφαλαία γράμματα χωρίς τόνους)",
+          "image" : "images/b_12/image01.png",
+          "answer" : "ΠΟΝΤΙΚΙ",
+          "answer_to_correct" : "ΔΙΩ",
+          "hints" : "0",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Δείχνω φωτογραφίες, παιχνίδια και ταινίες. (Κεφαλαία γράμματα χωρίς τόνους)",
+          "image" : "images/b_12/image01.png",
+          "answer" : "ΟΘΟΝΗ",
+          "answer_to_correct" : "ΔΙΩ",
+          "hints" : "0",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Χρησιμοποίησε με για να γράψεις. (Κεφαλαία γράμματα χωρίς τόνους)",
+          "image" : "images/b_12/image01.png",
+          "answer" : "ΠΛΗΚΤΡΟΛΟΓΙΟ",
+          "answer_to_correct" : "Όχι",
+          "hints" : "0",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Με χρειάζεσαι για να ακούσεις τραγούδια. (Κεφαλαία γράμματα χωρίς τόνους)",
+          "image" : "images/b_12/image01.png",
+          "answer" : "ΗΧΕΙΑ",
+          "answer_to_correct" : "ΕΞΗ",
+          "hints" : "0",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Η άλλη ονομασία για το κουτί του υπολογιστή. (Κεφαλαία γράμματα χωρίς τόνους)",
+          "image" : "images/b_12/image01.png",
+          "answer" : "ΠΥΡΓΟΣ",
+          "answer_to_correct" : "ΑΤΠΕ",
+          "hints" : "0",
+          "disabled_hints" : "yes"
+    }
+]

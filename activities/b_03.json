@@ -1,0 +1,81 @@
+[   {
+      "text": "Διόρθωσε τη λέξη",
+      "image" : "images/b_02/arithmozwakia/0.jpg",
+      "answer" : "ΜΗΔΕΝ",
+      "answer_to_correct" : "ΜΙΔΟΝ",
+      "hints" : "all",
+      "disabled_hints" : "no"
+    },
+    {
+      "text": "Διόρθωσε τη λέξη",
+      "image" : "images/b_02/arithmozwakia/1.jpg",
+      "answer" : "ΕΝΑ",
+      "answer_to_correct" : "ΑΝΕ",
+      "hints" : "all",
+      "disabled_hints" : "no"
+    },
+    {
+          "text": "Διόρθωσε τη λέξη",
+          "image" : "images/b_02/arithmozwakia/2.jpg",
+          "answer" : "ΔΥΟ",
+          "answer_to_correct" : "ΔΙΩ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+    },
+    {
+          "text": "Διόρθωσε τη λέξη",
+          "image" : "images/b_02/arithmozwakia/3.jpg",
+          "answer" : "ΤΡΙΑ",
+          "answer_to_correct" : "ΡΤΕΑ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+    },
+    {
+          "text": "Διόρθωσε τη λέξη",
+          "image" : "images/b_02/arithmozwakia/4.jpg",
+          "answer" : "ΤΕΣΣΕΡΑ",
+          "answer_to_correct" : "ΡΑΤΕΣΣΕ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+    },
+    {
+          "text": "Διόρθωσε τη λέξη",
+          "image" : "images/b_02/arithmozwakia/5.jpg",
+          "answer" : "ΠΕΝΤΕ",
+          "answer_to_correct" : "ΝΤΕΠΕ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+    },
+    {
+          "text": "Διόρθωσε τη λέξη",
+          "image" : "images/b_02/arithmozwakia/6.jpg",
+          "answer" : "ΕΞΙ",
+          "answer_to_correct" : "ΕΞΗ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+    },
+    {
+          "text": "Διόρθωσε τη λέξη",
+          "image" : "images/b_02/arithmozwakia/7.jpg",
+          "answer" : "ΕΠΤΑ",
+          "answer_to_correct" : "ΑΤΠΕ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+    },
+    {
+          "text": "Διόρθωσε τη λέξη",
+          "image" : "images/b_02/arithmozwakia/8.jpg",
+          "answer" : "ΟΚΤΩ",
+          "answer_to_correct" : "ΩΚΤΟ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+    },
+    {
+          "text": "Διόρθωσε τη λέξη",
+          "image" : "images/b_02/arithmozwakia/9.jpg",
+          "answer" : "ΕΝΝΙΑ",
+          "answer_to_correct" : "ΑΙΝΝΕ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+    }
+]

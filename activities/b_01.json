@@ -1,0 +1,71 @@
+[   {
+      "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+      "image" : "images/b_01/ergonomia_merh_tou_swmatos/agwnas.png",
+      "answer" : "ΑΓΚΩΝΑΣ",
+      "hints" : "0,1,3,6",
+      "disabled_hints" : "yes"
+    },
+    {
+      "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+      "image" : "images/b_01/ergonomia_merh_tou_swmatos/auti.png",
+      "answer" : "ΑΥΤΙ",
+      "hints" : "0,1",
+      "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+          "image" : "images/b_01/ergonomia_merh_tou_swmatos/astragalos.png",
+          "answer" : "ΑΣΤΡΑΓΑΛΟΣ",
+          "hints" : "0,1,3,6",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+          "image" : "images/b_01/ergonomia_merh_tou_swmatos/dontia.png",
+          "answer" : "ΔΟΝΤΙΑ",
+          "hints" : "0,1,5",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+          "image" : "images/b_01/ergonomia_merh_tou_swmatos/glwssa.png",
+          "answer" : "ΓΛΩΣΣΑ",
+          "hints" : "0,1,3,4",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+          "image" : "images/b_01/ergonomia_merh_tou_swmatos/gonato.png",
+          "answer" : "ΓΟΝΑΤΟ",
+          "hints" : "0,1,5",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+          "image" : "images/b_01/ergonomia_merh_tou_swmatos/koilia.png",
+          "answer" : "ΚΟΙΛΙΑ",
+          "hints" : "0,1,5",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+          "image" : "images/b_01/ergonomia_merh_tou_swmatos/mati.png",
+          "answer" : "ΜΑΤΙ",
+          "hints" : "0,1",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+          "image" : "images/b_01/ergonomia_merh_tou_swmatos/muth.png",
+          "answer" : "ΜΥΤΗ",
+          "hints" : "0,2",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
+          "image" : "images/b_01/ergonomia_merh_tou_swmatos/stoma.png",
+          "answer" : "ΣΤΟΜΑ",
+          "hints" : "0,1,3",
+          "disabled_hints" : "yes"
+    }
+]

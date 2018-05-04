@@ -1,0 +1,71 @@
+[   {
+      "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+      "image" : "images/b_02/arithmozwakia/0.jpg",
+      "answer" : "ΜΗΔΕΝ",
+      "hints" : "0,3",
+      "disabled_hints" : "yes"
+    },
+    {
+      "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+      "image" : "images/b_02/arithmozwakia/1.jpg",
+      "answer" : "ΕΝΑ",
+      "hints" : "1",
+      "disabled_hints" : "yes"
+    },
+    {
+          "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+          "image" : "images/b_02/arithmozwakia/2.jpg",
+          "answer" : "ΔΥΟ",
+          "hints" : "0",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+          "image" : "images/b_02/arithmozwakia/3.jpg",
+          "answer" : "ΤΡΙΑ",
+          "hints" : "1",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+          "image" : "images/b_02/arithmozwakia/4.jpg",
+          "answer" : "ΤΕΣΣΕΡΑ",
+          "hints" : "0,3",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+          "image" : "images/b_02/arithmozwakia/5.jpg",
+          "answer" : "ΠΕΝΤΕ",
+          "hints" : "1,2",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+          "image" : "images/b_02/arithmozwakia/6.jpg",
+          "answer" : "ΕΞΙ",
+          "hints" : "0",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+          "image" : "images/b_02/arithmozwakia/7.jpg",
+          "answer" : "ΕΠΤΑ",
+          "hints" : "1",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+          "image" : "images/b_02/arithmozwakia/8.jpg",
+          "answer" : "ΟΚΤΩ",
+          "hints" : "2",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",
+          "image" : "images/b_02/arithmozwakia/9.jpg",
+          "answer" : "ΕΝΝΙΑ",
+          "hints" : "3",
+          "disabled_hints" : "yes"
+    }
+]
