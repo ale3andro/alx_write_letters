@@ -115,13 +115,16 @@
                     echo "<p><div id=\"alx_letters\"></div><div id=\"alx_happyface\"><img src=\"images/garfield.gif\" /></div></p>";
                     echo "<p><div id=\"alx_capslock\"></div></p>";
                     echo "<p>";
-                    echo "<button id=\"alx_check_button\" type=\"button\" class=\"btn btn-primary\" onclick=\"check();\">Έλεγχος</button>";
-                    echo "<button id=\"alx_hint\" type=\"button\" class=\"btn btn-primary\" onclick=\"tempAlert('" . $questionData->answer . "', 2000);\">Βοήθεια</button>";
-                    echo "<button id=\"next_question_button\" type=\"button\" class=\"btn btn-primary\" disabled onclick=\"window.location='" . $base_url . "?activity=" . $_GET["activity"] ."&q=" . ($q_num+1) . "'\">Επόμενη ερώτηση</button>";
+                    echo "<button id=\"alx_check_button\" type=\"button\" class=\"btn btn-primary\" onclick=\"check();\">Έλεγχος</button>    ";
+                    if ($questionData->allow_reload=='yes') {
+                      echo "<button id=\"alx_check_button\" type=\"button\" class=\"btn btn-primary\" onclick=\"location.reload();\">Ξανά!</button>    ";
+                    }
+                    echo "<button id=\"next_question_button\" type=\"button\" class=\"btn btn-info\" disabled onclick=\"window.location='" . $base_url . "?activity=" . $_GET["activity"] ."&q=" . ($q_num+1) . "'\">Επόμενη ερώτηση</button>";
                     echo "</p>";
 
+                    echo "<button id=\"alx_hint\" type=\"button\" class=\"btn btn-warning\" onclick=\"tempAlert('" . $questionData->answer . "', 2000);\">Βοήθεια</button>    ";
                     echo "<div class=\"d-inline dropdown\">
-                      <button class=\"btn btn-secondary dropdown-toggle\" type=\"button\" id=\"dropdownMenuButton\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
+                      <button class=\"btn btn-warning dropdown-toggle\" type=\"button\" id=\"dropdownMenuButton\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
                         Πως...
                       </button>
                       <div class=\"dropdown-menu\" aria-labelledby=\"dropdownMenuButton\">

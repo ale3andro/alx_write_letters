@@ -4,69 +4,79 @@
             "image" : "images/a_02/f_and_ksi/fidi.jpeg",
             "answer" : "ΦΙΔΙ",
             "hints" : "1,3",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "Συμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_02/f_and_ksi/fakes.jpeg",
             "answer" : "ΦΑΚΕΣ",
             "hints" : "1,3,4",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "Συμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_02/f_and_ksi/fistiki.jpg",
             "answer" : "ΦΥΣΤΙΚΙ",
             "hints" : "1,2,3,5,6",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "Συμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_02/f_and_ksi/farmaka.png",
             "answer" : "ΦΑΡΜΑΚΑ",
             "hints" : "1,2,3,5,6",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "Συμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_02/f_and_ksi/fanari.jpeg",
             "answer" : "ΦΑΝΑΡΙ",
             "hints" : "1,2,4,5,6",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },  
       {
             "text": "Συμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_02/f_and_ksi/ksidi.jpeg",
             "answer" : "ΞΥΔΙ",
             "hints" : "1,3",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "Συμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_02/f_and_ksi/ksila.jpeg",
             "answer" : "ΞΥΛΑ",
             "hints" : "1,3",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
           "text": "Συμπλήρωσε τα γράμματα που λείπουν",
           "image" : "images/a_02/f_and_ksi/ksifos.jpg",
           "answer" : "ΞΙΦΟΣ",
           "hints" : "1,3,4,5",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
       },
       {
           "text": "Συμπλήρωσε τα γράμματα που λείπουν",
           "image" : "images/a_02/f_and_ksi/ksanthos.png",
           "answer" : "ΞΑΝΘΟΣ",
           "hints" : "1,2,3,5,6",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
       },
       {
           "text": "Συμπλήρωσε τα γράμματα που λείπουν",
           "image" : "images/a_02/f_and_ksi/ksenodoxeio.png",
           "answer" : "ΞΕΝΟΔΟΧΕΙΟ",
           "hints" : "1,2,3,5,6,8,9",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
       }
 ]

@@ -4,69 +4,79 @@
             "image" : "images/a_01/k_and_d/dasos.jpg",
             "answer" : "ΔΑΣΟΣ",
             "hints" : "2,3,4",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "ΓΣυμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_01/k_and_d/dakri.gif",
             "answer" : "ΔΑΚΡΥ",
             "hints" : "2,3,4",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "ΓΣυμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_01/k_and_d/dema.png",
             "answer" : "ΔΕΜΑ",
             "hints" : "2,3",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "ΓΣυμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_01/k_and_d/deka.png",
             "answer" : "ΔΕΚΑ",
             "hints" : "2,3",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "ΓΣυμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_01/k_and_d/daktylidi.gif",
             "answer" : "ΔΑΚΤΥΛΙΔΙ",
             "hints" : "2,3,4,5,6,7,8",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },  
       {
             "text": "Συμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_01/k_and_d/kota.jpg",
             "answer" : "ΚΟΤΑ",
             "hints" : "2,3",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
             "text": "Συμπλήρωσε τα γράμματα που λείπουν",
             "image" : "images/a_01/k_and_d/koudouni.jpg",
             "answer" : "ΚΟΥΔΟΥΝΙ",
             "hints" : "2,3,4,5,6,7,8",
-            "disabled_hints" : "yes"
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       },
       {
           "text": "Συμπλήρωσε τα γράμματα που λείπουν",
           "image" : "images/a_01/k_and_d/arkouda.jpg",
           "answer" : "ΑΡΚΟΥΔΑ",
           "hints" : "0,3,4,5,6",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
       },
       {
           "text": "Συμπλήρωσε τα γράμματα που λείπουν",
           "image" : "images/a_01/k_and_d/kastro.png",
           "answer" : "ΚΑΣΤΡΟ",
           "hints" : "1,2,4,5,6",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
       },
       {
           "text": "Συμπλήρωσε τα γράμματα που λείπουν",
           "image" : "images/a_01/k_and_d/kyknos.jpg",
           "answer" : "ΚΥΚΝΟΣ",
           "hints" : "1,2,3,5,6",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
       }
 ]
