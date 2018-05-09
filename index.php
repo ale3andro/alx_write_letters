@@ -75,8 +75,6 @@
 
     <!-- Custom styles for this template -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
-    <script src="alx_word_checkers.js"></script>
-
 </head>
 
 <body>
@@ -168,6 +166,44 @@
     });
     </script>
     <script type="text/javascript">
+    function check() {
+      var word = $('#alx_answer').html();
+      if ( checkletters(word) ) {
+        <?php
+          if ( $q_num==getNumberOfQuestions($str) ) {
+            echo "$('#alx_happyface').html('<img src=\"images/emojis-high-five.gif\"></img>');";
+            echo "$('#alx_check_button').hide();";
+          }
+          else {
+            echo "$('#alx_happyface').html('<img src=\"images/you_did_it.jpg\"></img>');";
+            echo "$('#alx_check_button').show();";
+          }
+        ?>
+        $('#alx_happyface').effect( "shake" );
+        $('#next_question_button').prop("disabled", false);
+      }
+      else
+        $("#alx_letters" ).effect( "shake" );
+    }
+
+    function checkletters(word) {
+      for (i=0;i<word.length;i++) {
+        idname = '#letter' + i;
+        if ($(idname).val()!=word[i]) {
+          return false;
+        }
+      }
+      return true;
+    }
+
+    function tempAlert(msg,duration)
+    {
+      var el = document.createElement("div");
+      el.setAttribute("style","position:absolute;top:30%;left:15%;background-color:grey;font-size: 50px;");
+      el.innerHTML = msg;
+      setTimeout(function(){ el.parentNode.removeChild(el); },duration);
+      document.body.appendChild(el);
+    }
     $( document ).ready(function() {
           $('#alx_questionnumber').html("<?php echo $q_num . " από " . getNumberOfQuestions($str); ?>");
           $('#alx_image').html("<img class='rounded mx-auto d-block img_fluid' src='" + "<?php echo $questionData->image; ?>" +"' />");

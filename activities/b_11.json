@@ -55,7 +55,7 @@
           "disabled_hints" : "yes"
     },
     {
-          "text": "Το ανεμιστηράκι λειτουργεί χωρίς ρεύμα. Σωστό ή λάθος;",
+          "text": "Το ανεμιστηράκι δεν λειτουργεί χωρίς ρεύμα. Σωστό ή λάθος;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "Σωστό",
           "answer_to_correct" : "ΑΙΝΝΕ",
