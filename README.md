@@ -6,6 +6,12 @@
 
 PHP + Javascript + Bootstrap theme (Bower dependencies)
 
+## Screenshot
+
+![alx_write_letters screenshot](screenshot.png)
+
+
 ## Video
 
-[Προβολή στο youtube](https://github.com/ale3andro/alx_write_letters)
+[Μαθητές της Β' τάξης χρησιμοποιούν το alx_write_letters](https://www.youtube.com/watch?v=my35545DWLI)
+
