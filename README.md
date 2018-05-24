@@ -1,10 +1,11 @@
-##Alx_write_leters
+# Alx_write_leters
 
 Λογισμικό για εξοικείωση με την πληκτρολόγηση για μικρές τάξεις Δημοτικού Σχολείου (Α' - Γ' τάξη)
 
-#Τεχνολογία
+## Τεχνολογία
 
 PHP + Javascript + Bootstrap theme (Bower dependencies)
 
-#Video
+## Video
+
 [Προβολή στο youtube](https://github.com/ale3andro/alx_write_letters)
