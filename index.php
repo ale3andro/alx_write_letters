@@ -3,6 +3,20 @@
   $available_activities = json_decode(file_get_contents("activities.json"));
   $activity_set = FALSE;
 
+  $helperUrl['kefalaia']['127.0.0.1'] = 'http://sxoleio.pw/6.keyboard/01_Κεφαλαία_γράμματα.html';
+  $helperUrl['kefalaia']['104.223.64.131'] = 'http://www.sxoleio.pw/yliko_ana_taksi/gnorizo-to-pliktrologio/kefalaia-grammata';
+  $helperUrl['allagh_glwssas']['127.0.0.1'] = 'http://sxoleio.pw/6.keyboard/02_Αλλαγή_γλώσσας_Ελληνικά-Αγγλικά.html';
+  $helperUrl['allagh_glwssas']['104.223.64.131'] = 'http://www.sxoleio.pw/yliko_ana_taksi/gnorizo-to-pliktrologio/allagi-glwssas';
+  $helperUrl['anw_katw_teleia']['127.0.0.1'] = 'http://sxoleio.pw/6.keyboard/05_Άνω_κάτω_τελεία.html';
+  $helperUrl['anw_katw_teleia']['104.223.64.131'] = 'http://www.sxoleio.pw/yliko_ana_taksi/gnorizo-to-pliktrologio/anw-katw-teleia';
+  
+  $helperUrl['diagrafh_xarakthra']['127.0.0.1'] = 'http://sxoleio.pw/6.keyboard/08_Διαγραφή_χαρακτήρα.html';
+  $helperUrl['diagrafh_xarakthra']['104.223.64.131'] = 'http://www.sxoleio.pw/yliko_ana_taksi/gnorizo-to-pliktrologio/diagrafh-xarakthra';
+  $helperUrl['ellhniko_erwthmatiko']['127.0.0.1'] = 'http://sxoleio.pw/6.keyboard/04_Ερωτηματικό.html';
+  $helperUrl['ellhniko_erwthmatiko']['104.223.64.131'] = 'http://www.sxoleio.pw/yliko_ana_taksi/gnorizo-to-pliktrologio/elliniko-etwthmatiko';
+  $helperUrl['tonoi']['127.0.0.1'] = 'http://sxoleio.pw/6.keyboard/03_Τόνοι.html';
+  $helperUrl['tonoi']['104.223.64.131'] = 'http://www.sxoleio.pw/yliko_ana_taksi/gnorizo-to-pliktrologio/tonoi';
+
   function getActivity($available_activities, $activity)
   {
     foreach ($available_activities as $single_activity) {
@@ -131,6 +145,7 @@
                         <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/04_Ερωτηματικό.html\">βάζω Ελληνικό ερωτηματικό</a>
                         <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/05_Άνω_κάτω_τελεία.html\">βάζω άνω και κάτω τελεία</a>
                         <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/08_Διαγραφή_χαρακτήρα.html\">διαγράφω ένα χαρακτήρα</a>
+                        <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/02_Αλλαγή_γλώσσας_Ελληνικά-Αγγλικά.html\">αλλάζω γλώσσα πληκτρολογίου</a>
                       </div>
                     </div>";
 
