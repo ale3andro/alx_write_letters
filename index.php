@@ -1,5 +1,5 @@
 <?php
-  $base_url = "http://sxoleio.pw/alx_code/alx_write_letters/index.php";
+  $base_url = "index.php";
   $available_activities = json_decode(file_get_contents("activities.json"));
   $activity_set = FALSE;
 
