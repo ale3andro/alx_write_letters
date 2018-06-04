@@ -119,7 +119,7 @@
                     echo "<h1>" . $selected_activity->full_description . "</h1>";
                     echo "<h2>Ερώτηση <span id=\"alx_questionnumber\">1</span></h2>";
                     echo "<div class=\"row\"><div class=\"col-sm-4\">";
-                    echo "<p><div id=\"alx_text\">Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;</div></p>";
+                    echo "<p><div id=\"alx_text\">Κείμενο ερώτησης</div></p>";
                     echo "<div id=\"alx_answer\" style=\"display: none;\"></div>";
                     echo "<p><div id=\"alx_image\"><img class=\"img-responsive\" src=\"preloader.gif\" /></div></p>";
                     echo "</div>"; # Closes the col-sm-6 column
