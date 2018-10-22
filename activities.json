@@ -6,6 +6,13 @@
       "filename" : "activities/b_01.json"
     },
     {
+      "id": "b_13",
+      "class" : "2",
+      "description" : "Β τάξη - Μέρη του σώματος που καταπονούνται μετά από πολλές ώρες στον ΗΥ",
+      "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
+      "filename" : "activities/b_13.json"
+    },
+    {
       "id": "b_02",
       "class" : "2",
       "description" : "B τάξη - Κεφαλαία και μικρά γραμματα",
