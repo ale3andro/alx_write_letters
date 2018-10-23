@@ -15,7 +15,7 @@
     {
       "id": "b_02",
       "class" : "2",
-      "description" : "B τάξη - Κεφαλαία και μικρά γραμματα",
+      "description" : "B τάξη - Κεφαλαία γραμματα χωρίς τόνους",
       "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
       "filename" : "activities/b_02.json"
     },
