@@ -1,0 +1,98 @@
+[   
+      {
+            "text": "Τι ώρα δείχνει το ρολόι;",
+            "image" : "images/a_09/clock/two.png",
+            "answer" : "ΔΥΟ",
+            "hints" : "1",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Τι ώρα δείχνει το ρολόι;",
+            "image" : "images/a_09/clock/one.png",
+            "answer" : "ΜΙΑ",
+            "hints" : "1",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Τι ώρα δείχνει το ρολόι;",
+            "image" : "images/a_09/clock/four.png",
+            "answer" : "ΤΕΣΣΕΡΙΣ",
+            "hints" : "1",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Τι ώρα δείχνει το ρολόι;",
+            "image" : "images/a_09/clock/three.png",
+            "answer" : "ΤΡΕΙΣ",
+            "hints" : "1",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Τι ώρα δείχνει το ρολόι;",
+            "image" : "images/a_09/clock/six.png",
+            "answer" : "ΕΞΙ",
+            "hints" : "1",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },  
+      {
+            "text": "Τι ώρα δείχνει το ρολόι;",
+            "image" : "images/a_09/clock/five.png",
+            "answer" : "ΠΕΝΤΕ",
+            "hints" : "1",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Τι ώρα δείχνει το ρολόι;",
+            "image" : "images/a_09/clock/eight.png",
+            "answer" : "ΟΚΤΩ",
+            "hints" : "1",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+          "text": "Τι ώρα δείχνει το ρολόι;",
+          "image" : "images/a_09/clock/eleven.png",
+          "answer" : "ΕΝΤΕΚΑ",
+          "hints" : "1",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      },
+      {
+          "text": "Τι ώρα δείχνει το ρολόι;",
+          "image" : "images/a_09/clock/nine.png",
+          "answer" : "ΕΝΝΙΑ",
+          "hints" : "1",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      },
+      {
+          "text": "Τι ώρα δείχνει το ρολόι;",
+          "image" : "images/a_09/clock/ten.png",
+          "answer" : "ΔΕΚΑ",
+          "hints" : "1",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      },
+      {
+        "text": "Τι ώρα δείχνει το ρολόι;",
+        "image" : "images/a_09/clock/twelve.png",
+        "answer" : "ΔΩΔΕΚΑ",
+        "hints" : "1",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Τι ώρα δείχνει το ρολόι;",
+        "image" : "images/a_09/clock/seven.png",
+        "answer" : "ΕΠΤΑ",
+        "hints" : "1",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    }
+]

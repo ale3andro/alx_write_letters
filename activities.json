@@ -144,5 +144,12 @@
       "description" : "Α τάξη - ΙΙΙ * Συμπλήρωσε τα γράμματα που λείπουν",
       "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται για συμπληρωθεί η λέξη;",
       "filename" : "activities/a_08.json"
+    },
+    {
+      "id": "a_09",
+      "class" : "1",
+      "description" : "Α τάξη - Τι ώρα είναι; (ολόκληρες ώρες)",
+      "full_description" : "Τι ώρα δείχνει το ρολόι",
+      "filename" : "activities/a_09.json"
     }
 ]
