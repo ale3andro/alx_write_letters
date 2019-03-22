@@ -127,17 +127,17 @@
                     echo "<p><div id=\"alx_letters\"></div><div id=\"alx_happyface\"><img src=\"images/garfield.gif\" /></div></p>";
                     echo "<p><div id=\"alx_capslock\"></div></p>";
                     echo "<p>";
-                    echo "<button id=\"alx_check_button\" type=\"button\" class=\"btn btn-primary\" onclick=\"check();\">Έλεγχος</button>    ";
+                    echo "<button id=\"alx_check_button\" type=\"button\" class=\"btn btn-primary\" onclick=\"check();\"><img src='icons/task-8x.png' /><br/>Έλεγχος</button>    ";
                     if ($questionData->allow_reload=='yes') {
-                      echo "<button id=\"alx_check_button\" type=\"button\" class=\"btn btn-primary\" onclick=\"location.reload();\">Ξανά!</button>    ";
+                      echo "<button id=\"alx_check_button\" type=\"button\" class=\"btn btn-danger\" onclick=\"location.reload();\"><img src='icons/reload-8x.png' /><br />Ξανά</button>    ";
                     }
-                    echo "<button id=\"next_question_button\" type=\"button\" class=\"btn btn-info\" disabled onclick=\"window.location='" . $base_url . "?activity=" . $_GET["activity"] ."&q=" . ($q_num+1) . "'\">Επόμενη ερώτηση</button>";
+                    echo "<button id=\"next_question_button\" type=\"button\" class=\"btn btn-success\" disabled onclick=\"window.location='" . $base_url . "?activity=" . $_GET["activity"] ."&q=" . ($q_num+1) . "'\"><img src='icons/chevron-right-8x.png' /><br />Επόμενη</button>";
                     echo "</p>";
 
-                    echo "<button id=\"alx_hint\" type=\"button\" class=\"btn btn-warning\" onclick=\"tempAlert('" . $questionData->answer . "', 2000);\">Βοήθεια</button>    ";
+                    echo "<button id=\"alx_hint\" type=\"button\" class=\"btn btn-warning\" onclick=\"tempAlert('" . $questionData->answer . "', 2000);\"><img src='icons/eye-8x.png' /><br />Βοήθεια</button>    ";
                     echo "<div class=\"d-inline dropdown\">
                       <button class=\"btn btn-warning dropdown-toggle\" type=\"button\" id=\"dropdownMenuButton\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
-                        Πως...
+                        <img src='icons/question-mark-8x.png' /><br />Πώς...
                       </button>
                       <div class=\"dropdown-menu\" aria-labelledby=\"dropdownMenuButton\">
                         <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/01_Κεφαλαία_γράμματα.html\">βάζω κεφαλαία ή μικρά γράμματα</a>
@@ -149,7 +149,7 @@
                       </div>
                     </div>";
 
-                    echo "<a href=\"#menu-toggle\" class=\"btn btn-secondary\" id=\"menu-toggle\">Μενού επιλογών</a>";
+                    echo "<a href=\"#menu-toggle\" class=\"btn btn-secondary\" id=\"menu-toggle\"><img src='icons/menu-8x.png' /><br />Μενού</a>";
                     echo "</div>"; # Closes the col-sm-6 column
                     echo "</div>"; # Closes the div class=row
                 }

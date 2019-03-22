@@ -19,3 +19,7 @@ PHP + Javascript + Bootstrap theme (Bower dependencies)
 
 [Μαθητές της Β' τάξης χρησιμοποιούν το alx_write_letters](https://www.youtube.com/watch?v=my35545DWLI)
 
+## Icons
+
+Τα εικονίδια που χρησιμοποιούνται στην εφαρμογή είναι διαθέσιμα υπό [MIT License](http://opensource.org/licenses/MIT) και μπορείτε να τα κατεβάσετε από [εδώ](https://github.com/iconic/open-iconic).
+
