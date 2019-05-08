@@ -151,5 +151,12 @@
       "description" : "Α τάξη - Τι ώρα είναι; (ολόκληρες ώρες)",
       "full_description" : "Τι ώρα δείχνει το ρολόι",
       "filename" : "activities/a_09.json"
+    },
+    {
+      "id": "a_10",
+      "class" : "1",
+      "description" : "Α τάξη - Τι ώρα είναι; Κεφαλαία και μικρά γράμματα",
+      "full_description" : "Τι ώρα δείχνει το ρολόι",
+      "filename" : "activities/a_10.json"
     }
 ]
