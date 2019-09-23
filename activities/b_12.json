@@ -1,15 +1,16 @@
-[   {
+[   
+    {
+            "text": "Δείχνω φωτογραφίες, παιχνίδια και ταινίες. (Κεφαλαία γράμματα χωρίς τόνους)",
+            "image" : "images/b_12/image01.png",
+            "answer" : "ΟΘΟΝΗ",
+            "answer_to_correct" : "ΔΙΩ",
+            "hints" : "0",
+            "disabled_hints" : "yes"
+    },
+    {
           "text": "Χρησιμοποίησέ με για να κινήσεις τον δείκτη στην οθόνη. (Κεφαλαία γράμματα χωρίς τόνους)",
           "image" : "images/b_12/image01.png",
           "answer" : "ΠΟΝΤΙΚΙ",
-          "answer_to_correct" : "ΔΙΩ",
-          "hints" : "0",
-          "disabled_hints" : "yes"
-    },
-    {
-          "text": "Δείχνω φωτογραφίες, παιχνίδια και ταινίες. (Κεφαλαία γράμματα χωρίς τόνους)",
-          "image" : "images/b_12/image01.png",
-          "answer" : "ΟΘΟΝΗ",
           "answer_to_correct" : "ΔΙΩ",
           "hints" : "0",
           "disabled_hints" : "yes"
