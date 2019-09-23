@@ -1,7 +1,7 @@
 [   
     {
             "text": "Δείχνω φωτογραφίες, παιχνίδια και ταινίες. (Κεφαλαία γράμματα χωρίς τόνους)",
-            "image" : "images/b_12/image01.png",
+            "image" : "images/b_12/monitor.png",
             "answer" : "ΟΘΟΝΗ",
             "answer_to_correct" : "ΔΙΩ",
             "hints" : "0",
@@ -9,7 +9,7 @@
     },
     {
           "text": "Χρησιμοποίησέ με για να κινήσεις τον δείκτη στην οθόνη. (Κεφαλαία γράμματα χωρίς τόνους)",
-          "image" : "images/b_12/image01.png",
+          "image" : "images/b_12/mouse.png",
           "answer" : "ΠΟΝΤΙΚΙ",
           "answer_to_correct" : "ΔΙΩ",
           "hints" : "0",
@@ -17,7 +17,7 @@
     },
     {
           "text": "Χρησιμοποίησε με για να γράψεις. (Κεφαλαία γράμματα χωρίς τόνους)",
-          "image" : "images/b_12/image01.png",
+          "image" : "images/b_12/keyboard.png",
           "answer" : "ΠΛΗΚΤΡΟΛΟΓΙΟ",
           "answer_to_correct" : "Όχι",
           "hints" : "0",
@@ -25,16 +25,32 @@
     },
     {
           "text": "Με χρειάζεσαι για να ακούσεις τραγούδια. (Κεφαλαία γράμματα χωρίς τόνους)",
-          "image" : "images/b_12/image01.png",
+          "image" : "images/b_12/speakers.png",
           "answer" : "ΗΧΕΙΑ",
           "answer_to_correct" : "ΕΞΗ",
           "hints" : "0",
           "disabled_hints" : "yes"
     },
     {
+          "text": "Με χρειάζεσαι για να ηχογραφήσεις τη φωνή σου. (Κεφαλαία γράμματα χωρίς τόνους)",
+          "image" : "images/b_12/microphone.png",
+          "answer" : "ΜΙΚΡΟΦΩΝΟ",
+          "answer_to_correct" : "ΕΞΗ",
+          "hints" : "0,5",
+          "disabled_hints" : "yes"
+    },
+    {
           "text": "Η άλλη ονομασία για το κουτί του υπολογιστή. (Κεφαλαία γράμματα χωρίς τόνους)",
-          "image" : "images/b_12/image01.png",
+          "image" : "images/b_12/tower.png",
           "answer" : "ΠΥΡΓΟΣ",
+          "answer_to_correct" : "ΑΤΠΕ",
+          "hints" : "0",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Σε μένα τυπώνεις τις ζωγραφιές σου. (Κεφαλαία γράμματα χωρίς τόνους)",
+          "image" : "images/b_12/printer.png",
+          "answer" : "ΕΚΤΥΠΩΤΗΣ",
           "answer_to_correct" : "ΑΤΠΕ",
           "hints" : "0",
           "disabled_hints" : "yes"
