@@ -183,7 +183,9 @@
     <script type="text/javascript">
     function check() {
       var word = $('#alx_answer').html();
-      if ( checkletters(word) ) {
+      var the_result = checkletters(word);
+
+      if ( is_result_all_correct(the_result) ) {
         <?php
           if ( $q_num==getNumberOfQuestions($str) ) {
             echo "$('#alx_happyface').html('<img src=\"images/emojis-high-five.gif\"></img>');";
@@ -194,21 +196,40 @@
             echo "$('#alx_check_button').show();";
           }
         ?>
+        for (var i=0; i<the_result.length; i++)
+          $("#letter" + i).css({'border' : '4px solid #008000'});
         $('#alx_happyface').effect( "shake" );
         $('#next_question_button').prop("disabled", false);
       }
-      else
+      else {
         $("#alx_letters" ).effect( "shake" );
+        for (var i=0; i<the_result.length; i++) {
+          if (the_result[i]==0)
+            $("#letter" + i).css({'border' : '4px solid #ff0000'});
+          else 
+            $("#letter" + i).css({'border' : '4px solid #008000'});
+        }
+        
+      }
+    }
+
+    function is_result_all_correct(result_set) {
+      for (i=0; i<result_set.length; i++) {
+        if (result_set[i]==0)
+          return false;
+      }
+      return true;
     }
 
     function checkletters(word) {
+      var check_result = [];
       for (i=0;i<word.length;i++) {
         idname = '#letter' + i;
-        if ($(idname).val()!=word[i]) {
-          return false;
-        }
+        check_result[i]=1; // If the value is 1 then the letter was typped correctly by the student
+        if ($(idname).val()!=word[i])
+          check_result[i]=0; // If the value is 0 then the student made a mistake
       }
-      return true;
+      return check_result;
     }
 
     function tempAlert(msg,duration)
