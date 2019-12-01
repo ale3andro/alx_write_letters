@@ -85,7 +85,7 @@
     <title>Ασκήσεις Πληκτρολόγησης - ale3andro.gr</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../bower_components/bootstrap4/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
@@ -166,12 +166,9 @@
     <!-- /#wrapper -->
 
     <!-- Bootstrap core JavaScript -->
-    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="../bower_components/jquery-ui/jquery-ui.min.js"></script>
-    <script src="popper/popper.min.js"></script>
-    <script src="../bower_components/bootstrap4/dist/js/bootstrap.bundle.min.js"></script>
-
-
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/jquery-ui-dist/jquery-ui.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
     <!-- Menu Toggle Script -->
     <script type="text/javascript">

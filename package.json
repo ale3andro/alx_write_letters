@@ -1,0 +1,14 @@
+{
+  "name": "alx_write_letters",
+  "version": "1.0.0",
+  "main": "index.php",
+  "repository": "git@github.com:ale3andro/alx_write_letters.git",
+  "author": "ale3andro <ale3andro@gmail.com>",
+  "license": "GNU",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "jquery-ui-dist": "^1.12.1",
+    "popper.js": "^1.16.0"
+  }
+}
