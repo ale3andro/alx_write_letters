@@ -85,9 +85,16 @@
     {
       "id": "b_12",
       "class" : "2",
+      "description" : "B τάξη - Υλικό Η/Υ - Επανάληψη στο υλικό του Υπολογιστή;",
+      "full_description" : "Τι είναι αυτό που βλέπω",
+      "filename" : "activities/b_12.json"
+    },
+    {
+      "id": "b_14",
+      "class" : "2",
       "description" : "B τάξη - Υλικό Η/Υ - Τι δουλειά κάνει το κάθε κομμάτι του ΗΥ;",
       "full_description" : "Απάντησε στις ερωτήσεις σχετικά με το τι κάνει το κάθε κομμάτι του ΗΥ",
-      "filename" : "activities/b_12.json"
+      "filename" : "activities/b_13.json"
     },
     {
       "id": "a_01",
