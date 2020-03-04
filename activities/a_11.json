@@ -1,0 +1,90 @@
+[   
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/aeroplano.png",
+            "answer" : "Αεροπλάνο",
+            "hints" : "0,4,5,6,7,8,",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/autokinhto.png",
+            "answer" : "Αυτοκίνητο",
+            "hints" : "0,1,2,5,6,7,8",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/elikoptero.png",
+            "answer" : "Ελικόπτερο",
+            "hints" : "0,4,5,6,7,8,9",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/leoforeio.png",
+            "answer" : "Λεωφορείο",
+            "hints" : "0,4,5,6,7,8",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/mhxanaki.png",
+            "answer" : "Μηχανάκι",
+            "hints" : "0,4,5,6,7,8",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },  
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/patini.png",
+            "answer" : "Πατίνι",
+            "hints" : "0,3,5",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/podhlato.png",
+            "answer" : "Ποδήλατο",
+            "hints" : "0,3,5,6,7,8",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/sanida.png",
+            "answer" : "Σανίδα",
+            "hints" : "0,3,5",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/taxi.png",
+            "answer" : "Ταξί",
+            "hints" : "0,3",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/tram.png",
+            "answer" : "Τραμ",
+            "hints" : "0,1",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Ποιο μεταφορικό μέσο βλέπεις στην εικόνα &semi;",
+            "image" : "images/a_11/treno.png",
+            "answer" : "Τρένο",
+            "hints" : "0,2,4",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+    }
+]
