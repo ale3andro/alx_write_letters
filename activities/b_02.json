@@ -3,7 +3,8 @@
       "image" : "images/b_02/arithmozwakia/0.jpg",
       "answer" : "ΜΗΔΕΝ",
       "hints" : "0,3",
-      "disabled_hints" : "yes"
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
     },
     {
       "text": "Γράψε τον αριθμό που βλέπεις στην εικόνα",

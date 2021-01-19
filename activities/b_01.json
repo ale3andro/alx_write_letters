@@ -3,7 +3,8 @@
       "image" : "images/b_01/ergonomia_merh_tou_swmatos/agwnas.png",
       "answer" : "ΑΓΚΩΝΑΣ",
       "hints" : "0,2,6",
-      "disabled_hints" : "yes"
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
     },
     {
       "text": "Ποιό μέρος του σώματος βλέπεις στην παρακάτω εικόνα;",
