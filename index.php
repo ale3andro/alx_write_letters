@@ -86,6 +86,8 @@
 
     <!-- Bootstrap core CSS -->
     <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="node_modules/jquery-ui-dist/jquery-ui.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href = "node_modules/jquery-ui-themes/themes/pepper-grinder/jquery-ui.css">
 
     <!-- Custom styles for this template -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
@@ -140,18 +142,23 @@
                         <img src='icons/question-mark-8x.png' /><br />Πώς...
                       </button>
                       <div class=\"dropdown-menu\" aria-labelledby=\"dropdownMenuButton\">
-                        <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/01_Κεφαλαία_γράμματα.html\">βάζω κεφαλαία ή μικρά γράμματα</a>
-                        <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/03_Τόνοι.html\">βάζω τόνο σε φωνήεν</a>
-                        <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/04_Ερωτηματικό.html\">βάζω Ελληνικό ερωτηματικό</a>
-                        <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/05_Άνω_κάτω_τελεία.html\">βάζω άνω και κάτω τελεία</a>
-                        <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/08_Διαγραφή_χαρακτήρα.html\">διαγράφω ένα χαρακτήρα</a>
-                        <a class=\"dropdown-item\" target=\"_blank\" href=\"http://sxoleio.pw/6.keyboard/02_Αλλαγή_γλώσσας_Ελληνικά-Αγγλικά.html\">αλλάζω γλώσσα πληκτρολογίου</a>
+                        <a class=\"dropdown-item\" id=\"open_capslock\">βάζω κεφαλαία ή μικρά γράμματα</a>
+                        <a class=\"dropdown-item\" id=\"open_tonoi\">βάζω τόνο σε φωνήεν</a>
+                        <a class=\"dropdown-item\" id=\"open_questionmark\">βάζω Ελληνικό ερωτηματικό</a>
+                        <a class=\"dropdown-item\" id=\"open_semicolon\">βάζω άνω και κάτω τελεια</a>
+                        <a class=\"dropdown-item\" id=\"open_delete\">σβήνω ένα γράμμα</a>
+                        <a class=\"dropdown-item\" id=\"open_language\">αλλάζω γλώσσα πληκτρολογίου</a>
                       </div>
                     </div>";
 
                     echo "<a href=\"#menu-toggle\" class=\"btn btn-secondary\" id=\"menu-toggle\"><img src='icons/menu-8x.png' /><br />Μενού</a>";
                     echo "</div>"; # Closes the col-sm-6 column
                     echo "</div>"; # Closes the div class=row
+                 
+                    echo "
+                          <div id=\"dialog\" title=\"Πληκτρολόγιο\">
+                          ...
+                        </div>";
                 }
                 else {
                   echo "Πάτησε το παρακάτω κουμπί για να δεις τις διαθέσιμες ασκήσεις<br />";
@@ -166,9 +173,60 @@
     <!-- /#wrapper -->
 
     <!-- Bootstrap core JavaScript -->
+    
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="node_modules/jquery-ui-dist/jquery-ui.min.js"></script>
+    
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="node_modules/jquery-ui-dist/jquery-ui.min.js"></script>
+    
+    <script>
+  $( function() {
+    $( "#dialog" ).dialog({
+      autoOpen: false,
+      width: 840,
+      show: {
+        effect: "blind",
+        duration: 1000
+      },
+      hide: {
+        effect: "explode",
+        duration: 1000
+      }
+    });
+ 
+    $( "#open_capslock" ).on( "click", function() {
+      $("#dialog").html("<p><video controls width=\"800\"><source src=\"videos/Caps_Lock.webm\" type=\"video/webm\"></video></p>");
+      $( "#dialog" ).dialog( "open" );
+    });
+
+    $( "#open_tonoi" ).on( "click", function() {
+      $("#dialog").html("<p><video controls width=\"800\"><source src=\"videos/tonoi.webm\" type=\"video/webm\"></video></p>");
+      $( "#dialog" ).dialog( "open" );
+    });
+
+    $( "#open_questionmark" ).on( "click", function() {
+      $("#dialog").html("<p><video controls width=\"800\"><source src=\"videos/questionmark.webm\" type=\"video/webm\"></video></p>");
+      $( "#dialog" ).dialog( "open" );
+    });
+
+    $( "#open_semicolon" ).on( "click", function() {
+      $("#dialog").html("<p><video controls width=\"800\"><source src=\"videos/semicolon.webm\" type=\"video/webm\"></video></p>");
+      $( "#dialog" ).dialog( "open" );
+    });
+
+    $( "#open_delete" ).on( "click", function() {
+      $("#dialog").html("<p><video controls width=\"800\"><source src=\"videos/delete.webm\" type=\"video/webm\"></video></p>");
+      $( "#dialog" ).dialog( "open" );
+    });
+
+    $( "#open_language" ).on( "click", function() {
+      $("#dialog").html("<p><video controls width=\"800\"><source src=\"videos/language.webm\" type=\"video/webm\"></video></p>");
+      $( "#dialog" ).dialog( "open" );
+    });
+  
+
+  } );
+  </script>
 
     <!-- Menu Toggle Script -->
     <script type="text/javascript">

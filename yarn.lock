@@ -12,6 +12,11 @@ jquery-ui-dist@^1.12.1:
   resolved "https://registry.yarnpkg.com/jquery-ui-dist/-/jquery-ui-dist-1.12.1.tgz#5c0815d3cc6f90ff5faaf5b268a6e23b4ca904fa"
   integrity sha1-XAgV08xvkP9fqvWyaKbiO0ypBPo=
 
+jquery-ui-themes@^1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/jquery-ui-themes/-/jquery-ui-themes-1.12.0.tgz#a57ba0ad96800d84522fe76893ffcbde67081d51"
+  integrity sha1-pXugrZaADYRSL+dok//L3mcIHVE=
+
 jquery@^3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
