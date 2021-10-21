@@ -1,21 +1,5 @@
 [   
     {
-        "text": "Διόρθωσε τη λέξη",
-        "image" : "images/b_02/arithmozwakia/0.jpg",
-        "answer" : "ΜΗΔΕΝ",
-        "answer_to_correct" : "ΜΙΔΟΝ",
-        "hints" : "all",
-        "disabled_hints" : "no"
-    },
-    {
-        "text": "Διόρθωσε τη λέξη",
-        "image" : "images/b_02/arithmozwakia/4.jpg",
-        "answer" : "ΤΕΣΣΕΡΑ",
-        "answer_to_correct" : "ΡΑΤΕΣΣΕ",
-        "hints" : "all",
-        "disabled_hints" : "no"
-    },
-    {
         "text": "Βάλε τόνους και κεφαλαία γράμματα",
         "image" : "images/b_04/tonoi_kefalaia/gourouni.png",
         "answer" : "Γουρούνι",
@@ -30,6 +14,22 @@
         "answer_to_correct" : "ΑΤΠΕ",
         "hints" : "4,6",
         "disabled_hints" : "yes"
+    },
+    {
+        "text": "Διόρθωσε τη λέξη",
+        "image" : "images/b_02/arithmozwakia/0.jpg",
+        "answer" : "ΜΗΔΕΝ",
+        "answer_to_correct" : "ΜΙΔΟΝ",
+        "hints" : "all",
+        "disabled_hints" : "no"
+    },
+    {
+        "text": "Διόρθωσε τη λέξη",
+        "image" : "images/b_02/arithmozwakia/4.jpg",
+        "answer" : "ΤΕΣΣΕΡΑ",
+        "answer_to_correct" : "ΡΑΤΕΣΣΕ",
+        "hints" : "all",
+        "disabled_hints" : "no"
     },
     {
         "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
