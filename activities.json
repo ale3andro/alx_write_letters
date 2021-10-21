@@ -172,5 +172,12 @@
       "description" : "Α τάξη - Μέσα μεταφοράς",
       "full_description" : "Συμπλήρωσε τις λέξεις - Μεταφορικά μέσα",
       "filename" : "activities/a_11.json"
+    },
+    {
+      "id": "c_01",
+      "class" : "3",
+      "description" : "Γ τάξη - Πληκτρολόγιο επανάληψη",
+      "full_description" : "Επαναληπτική δραστηριότητα στο πληκτρολόγιο",
+      "filename" : "activities/c_01.json"
     }
 ]
