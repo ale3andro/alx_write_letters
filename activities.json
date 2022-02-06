@@ -97,6 +97,13 @@
       "filename" : "activities/b_14.json"
     },
     {
+      "id": "b_15",
+      "class" : "2",
+      "description" : "B τάξη - Παραμύθι για τα προσωπικά δεδομένα",
+      "full_description" : "Ερωτήσεις σχετικά με το παραμύθι που διαβάσαμε στην τάξη",
+      "filename" : "activities/b_15.json"
+    },
+    {
       "id": "a_01",
       "class" : "1",
       "description" : "Α τάξη - Πληκτρολόγιο 101 - Κ και Δ",

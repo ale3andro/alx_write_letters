@@ -1,0 +1,47 @@
+[   
+    {
+      "text": "Πως ονομάζεται το κορίτσι της ιστορίας μας;",
+      "image" : "images/b_15/img0.png",
+      "answer" : "Αθηνά",
+      "answer_to_correct" : "ΔΙΩ",
+      "hints" : "0",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Το όνομα του σκύλου της Αθηνάς",
+      "image" : "images/b_15/img2.png",
+      "answer" : "Ερμής",
+      "answer_to_correct" : "Όχι",
+      "hints" : "0",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Στη διπλανή εικόνα βλέπουμε την καινούργια _____ της Αθηνάς",
+      "image" : "images/b_15/img1.png",
+      "answer" : "δασκάλα",
+      "answer_to_correct" : "ΔΙΩ",
+      "hints" : "0",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Το παραμύθι που διαβάσαμε, μιλά για την αξία των προσωπικών μας ______________",
+      "image" : "images/b_15/img3.png",
+      "answer" : "δεδομένων",
+      "answer_to_correct" : "ΕΞΗ",
+      "hints" : "0",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Τα προσωπικά μας δεδομένα δεν πρέπει να τα αποκαλύπτουμε στο _____________",
+      "image" : "images/b_15/img4.png",
+      "answer" : "διαδίκτυο",
+      "answer_to_correct" : "ΕΞΗ",
+      "hints" : "0,5",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    }
+]
