@@ -1,0 +1,14 @@
+.onecharonly {
+    width:1.3em;
+    font-size: 36px;
+    text-align: center;
+}
+  
+.alx_textbox_to_complete {
+    background-color:green;
+}
+  
+.img_fluid {
+    max-width: 100%;
+    height: auto;
+}
