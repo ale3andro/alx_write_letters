@@ -74,6 +74,7 @@ $( function() {
   } );
 
 $( document ).ready(function() {
+    document.body.classList.toggle('sb-sidenav-toggled');
     var all_activities = [];
     $.ajax({
         url: 'activities.json',
