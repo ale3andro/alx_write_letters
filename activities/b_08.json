@@ -2,7 +2,6 @@
           "text": "Σε αυτό το μάθημα ασχολούμαστε με το ____ του υπολογιστή",
           "image" : "images/b_08/yliko-hy-01/pc-case.png",
           "answer" : "Εσωτερικό",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "0,1,2,3",
           "disabled_hints" : "yes"
     },
@@ -10,7 +9,6 @@
           "text": "Είναι ασφαλές να ανοίγουμε μόνοι μας το κουτί του υπολογιστή μας; Ναί ή όχι;",
           "image" : "images/b_08/yliko-hy-01/pc-repair.png",
           "answer" : "Όχι",
-          "answer_to_correct" : "Όχι",
           "hints" : "0",
           "disabled_hints" : "yes"
     },
@@ -18,7 +16,6 @@
           "text": "Στην εικόνα βλέπουμε μια _________ πλακέτα",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Μητρική",
-          "answer_to_correct" : "ΕΞΗ",
           "hints" : "1,2,3",
           "disabled_hints" : "yes"
     },
@@ -26,7 +23,6 @@
           "text": "Μπορεί να υπάρξει υπολογιστής χωρίς μητρική πλακέτα. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Λάθος",
-          "answer_to_correct" : "ΑΤΠΕ",
           "hints" : "1,3",
           "disabled_hints" : "yes"
     },
@@ -34,7 +30,6 @@
           "text": "Η μητρική πλακέτα είναι η ____ πάνω στην οποία τοποθετούνται όλα τα υπόλοιπα εξαρτήματα του εσωτερικού του υπολογιστή.",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Βάση",
-          "answer_to_correct" : "ΩΚΤΟ",
           "hints" : "2",
           "disabled_hints" : "yes"
     },
@@ -42,7 +37,6 @@
           "text": "Αυτό που βλέπουμε στην εικόνα <strong>δεν</strong> είναι μητρική πλακέτα.",
           "image" : "images/b_08/yliko-hy-01/hard-disk.png",
           "answer" : "Σωστό",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "0",
           "disabled_hints" : "yes"
     },
@@ -50,7 +44,6 @@
           "text": "Όταν λειτουργεί ο υπολογιστής δεν πρέπει να ακουμπάμε την μητρική πλακέτα γιατί υπάρχει κίνδυνος ηλεκτροπληξίας. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Σωστό",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "2,3",
           "disabled_hints" : "yes"
     },
@@ -58,7 +51,6 @@
           "text": "Τι συμβολίζει αυτό το σήμα;",
           "image" : "images/b_08/yliko-hy-01/electrocution.png",
           "answer" : "Ηλεκτροπληξία",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "1,2,3",
           "disabled_hints" : "yes"
     }

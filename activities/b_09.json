@@ -2,7 +2,6 @@
           "text": "Τι βλέπεις σε αυτή την εικόνα;",
           "image" : "images/b_08/yliko-hy-01/ram.png",
           "answer" : "Μνήμη",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "1,4",
           "disabled_hints" : "yes"
     },
@@ -10,7 +9,6 @@
           "text": "Τι βλέπεις σε αυτή την εικόνα; (2 λέξεις)",
           "image" : "images/b_08/yliko-hy-01/hard-disk.png",
           "answer" : "Σκληρός δίσκος",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "0,1,7,8",
           "disabled_hints" : "yes"
     },
@@ -18,7 +16,6 @@
           "text": "Η μνήμη είναι πιο γρήγορη από ένα σκληρό δίσκο. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/rabbit.png",
           "answer" : "Σωστό",
-          "answer_to_correct" : "Όχι",
           "hints" : "1",
           "disabled_hints" : "yes"
     },
@@ -26,7 +23,6 @@
           "text": "Ο σκληρός δίσκος αδειάζει όταν κλείνει ο υπολογιστής. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/ram.png",
           "answer" : "Λάθος",
-          "answer_to_correct" : "ΕΞΗ",
           "hints" : "2",
           "disabled_hints" : "yes"
     },
@@ -34,7 +30,6 @@
           "text": "Η μνήμη χωράει λιγότερα πράγματα από τον σκληρό δίσκο. Σωστό η λάθος;",
           "image" : "images/b_08/yliko-hy-01/hard-disk.png",
           "answer" : "Σωστό",
-          "answer_to_correct" : "ΑΤΠΕ",
           "hints" : "2",
           "disabled_hints" : "yes"
     },
@@ -42,7 +37,6 @@
           "text": "Αν θέλω να αποθηκεύσω πολλές ταινίες τι θα διαλέξω; Μνήμη ή σκληρό δίσκο; (2 λέξεις)",
           "image" : "images/b_08/yliko-hy-01/ram.png",
           "answer" : "Σκληρό δίσκο",
-          "answer_to_correct" : "ΩΚΤΟ",
           "hints" : "0,1,6,7,8",
           "disabled_hints" : "yes"
     },
@@ -50,7 +44,6 @@
           "text": "Ένας υπολογιστής μπορεί να λειτουργήσει και χωρίς μνήμη και σκληρό δίσκο. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/hard-disk.png",
           "answer" : "Λάθος",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "3",
           "disabled_hints" : "yes"
     },
@@ -58,7 +51,6 @@
           "text": "Η μνήμη και ο σκληρός δίσκος συνδέονται πάνω στην μητρική ____ του υπολογιστή.",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Πλακέτα",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "2,3",
           "disabled_hints" : "yes"
     }

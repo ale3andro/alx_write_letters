@@ -3,7 +3,6 @@
       "text": "Είναι μια ____ πλακέτα",
       "image" : "images/b_12/mobo.png",
       "answer" : "μητρική",
-      "answer_to_correct" : "ΔΙΩ",
       "hints" : "0",
       "disabled_hints" : "yes"
     },
@@ -11,7 +10,6 @@
       "text": "Είναι ένας σκληρός ____ ",
       "image" : "images/b_12/hard-disk.png",
       "answer" : "δίσκος",
-      "answer_to_correct" : "ΔΙΩ",
       "hints" : "0",
       "disabled_hints" : "yes"
     },
@@ -19,7 +17,6 @@
       "text": "Είναι μια ____ ",
       "image" : "images/b_12/ram.png",
       "answer" : "μνήμη",
-      "answer_to_correct" : "Όχι",
       "hints" : "0",
       "disabled_hints" : "yes"
     },
@@ -27,7 +24,6 @@
       "text": "Είναι ένας ____",
       "image" : "images/b_12/cpu.png",
       "answer" : "επεξεργαστής",
-      "answer_to_correct" : "ΕΞΗ",
       "hints" : "0",
       "disabled_hints" : "yes"
     },
@@ -35,7 +31,6 @@
       "text": "Είναι μια ____ επεξεργαστή",
       "image" : "images/b_12/cpu-fan.png",
       "answer" : "ψύκτρα",
-      "answer_to_correct" : "ΕΞΗ",
       "hints" : "0,5",
       "disabled_hints" : "yes"
     },
@@ -43,7 +38,6 @@
       "text": "Είναι ένα ______",
       "image" : "images/b_12/case-fan.png",
       "answer" : "ανεμιστηράκι",
-      "answer_to_correct" : "ΑΤΠΕ",
       "hints" : "0",
       "disabled_hints" : "yes"
     },
@@ -51,7 +45,6 @@
       "text": "Είναι ένα ____",
       "image" : "images/b_12/trofodotiko.png",
       "answer" : "τροφοδοτικό",
-      "answer_to_correct" : "ΑΤΠΕ",
       "hints" : "0",
       "disabled_hints" : "yes"
     }

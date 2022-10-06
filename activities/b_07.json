@@ -2,7 +2,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/01-Mpravo.png",
           "answer" : "Μπράβο!!!",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "0,3,4,5",
           "disabled_hints" : "yes"
     },
@@ -10,7 +9,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/02-Stars.png",
           "answer" : "Stars***",
-          "answer_to_correct" : "ΡΤΕΑ",
           "hints" : "0,1,2,3,4",
           "disabled_hints" : "yes"
     },
@@ -18,7 +16,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/04-Three.png",
           "answer" : "Τρία(3)",
-          "answer_to_correct" : "ΝΤΕΠΕ",
           "hints" : "0,1,2,3",
           "disabled_hints" : "yes"
     },
@@ -26,7 +23,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/05-teacher-sxoleio-pw.png",
           "answer" : "teacher@sxoleio.pw",
-          "answer_to_correct" : "ΕΞΗ",
           "hints" : "1,2,3,4,5,6,8,9,10,11,12,13,14,16,17",
           "disabled_hints" : "yes"
     },
@@ -34,7 +30,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/06-Numbers.png",
           "answer" : "1234567890",
-          "answer_to_correct" : "ΑΤΠΕ",
           "hints" : "2,7,9,10,14,18,19",
           "disabled_hints" : "yes"
     },
@@ -42,7 +37,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/07-Dollar.png",
           "answer" : "Δολλάριο$",
-          "answer_to_correct" : "ΩΚΤΟ",
           "hints" : "1,2,3,4,5,6,7",
           "disabled_hints" : "yes"
     },
@@ -50,7 +44,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/08-Hash.png",
           "answer" : "Δίεση#",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "0,2,3,4",
           "disabled_hints" : "yes"
     },
@@ -58,7 +51,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/09-at.png",
           "answer" : "Παπάκι@",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "1,2,4,5",
           "disabled_hints" : "yes"
     },
@@ -66,7 +58,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/10-Kapelaki.png",
           "answer" : "Καπελάκι^",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "1,2,3,4,5,6,7",
           "disabled_hints" : "yes"
     },
@@ -74,7 +65,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/11-Percent.png",
           "answer" : "Επί τοις εκατό%",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "1,2,3,4,5,6,7,8,9,10,12,13",
           "disabled_hints" : "yes"
     },
@@ -82,7 +72,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/12-Minus.png",
           "answer" : "Αφαίρεση-",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "1,2,3,5,6,7",
           "disabled_hints" : "yes"
     },
@@ -90,7 +79,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/13-Plus.png",
           "answer" : "Πρόσθεση+",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "1,2,4,5,6,7",
           "disabled_hints" : "yes"
     },
@@ -98,7 +86,6 @@
           "text": "Συμπλήρωσε τις λέξεις βάζοντας σύμβολα ή αριθμούς",
           "image" : "images/b_07/symvola-ari8moi/14-Equal.png",
           "answer" : "Ίσον=",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "1,2,3",
           "disabled_hints" : "yes"
     }

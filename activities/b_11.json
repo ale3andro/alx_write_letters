@@ -2,7 +2,6 @@
           "text": "Τι βλέπεις σε αυτή την εικόνα;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/trofodotiko.png",
           "answer" : "Τροφοδοτικό",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "1,4",
           "disabled_hints" : "yes"
     },
@@ -10,7 +9,6 @@
           "text": "Τι βλέπεις σε αυτή την εικόνα;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "Ανεμιστήρας",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "1,2",
           "disabled_hints" : "yes"
     },
@@ -18,7 +16,6 @@
           "text": "Το τροφοδοτικό δίνει ____ στον υπολογιστή. ",
           "image" : "images/b_11/trofodotiko-anemisthrakia/trofodotiko.png",
           "answer" : "ρεύμα",
-          "answer_to_correct" : "Όχι",
           "hints" : "1",
           "disabled_hints" : "yes"
     },
@@ -26,7 +23,6 @@
           "text": "Το ανεμιστηράκι διώχνει τον ζεστό ____ μέσα από το κουτί του υπολογιστή",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "αέρα",
-          "answer_to_correct" : "ΕΞΗ",
           "hints" : "2",
           "disabled_hints" : "yes"
     },
@@ -34,7 +30,6 @@
           "text": "Δεν πρέπει να ανοίγουμε ποτέ το τροφοδοτικό γιατί υπάρχει κίνδυνος ηλεκτρπληξίας. Σωστό ή λάθος;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/trofodotiko.png",
           "answer" : "Σωστό",
-          "answer_to_correct" : "ΑΤΠΕ",
           "hints" : "1",
           "disabled_hints" : "yes"
     },
@@ -42,7 +37,6 @@
           "text": "Όταν ένα ανεμιστηράκι μαζεύει πολύ ____ κάνει πολύ θόρυβο",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "σκόνη",
-          "answer_to_correct" : "ΩΚΤΟ",
           "hints" : "1,6,7,8",
           "disabled_hints" : "yes"
     },
@@ -50,7 +44,6 @@
           "text": "Ένα τροφοδοτικό είναι φθηνότερο από ένα ανεμιστηράκι. Σωστό ή λάθος;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/trofodotiko.png",
           "answer" : "Λάθος",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "3",
           "disabled_hints" : "yes"
     },
@@ -58,7 +51,6 @@
           "text": "Το ανεμιστηράκι δεν λειτουργεί χωρίς ρεύμα. Σωστό ή λάθος;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "Σωστό",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "2,3",
           "disabled_hints" : "yes"
     }

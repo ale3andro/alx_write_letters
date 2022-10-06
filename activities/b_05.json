@@ -2,7 +2,6 @@
           "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Τι κάνεις;",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "0,1,2,3,4,5,6,7,8",
           "disabled_hints" : "yes"
     },
@@ -10,7 +9,6 @@
           "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Τι ώρα είναι;",
-          "answer_to_correct" : "ΡΤΕΑ",
           "hints" : "0,1,2,3,4,5,6,7,8,9,10,11",
           "disabled_hints" : "yes"
     },
@@ -18,7 +16,6 @@
           "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Τι δουλειά κάνεις;",
-          "answer_to_correct" : "ΡΑΤΕΣΣΕ",
           "hints" : "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
           "disabled_hints" : "yes"
     },
@@ -26,7 +23,6 @@
           "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Που μένεις;",
-          "answer_to_correct" : "ΝΤΕΠΕ",
           "hints" : "0,1,2,3,4,5,6,7,8,9",
           "disabled_hints" : "yes"
     },
@@ -34,7 +30,6 @@
           "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Τι θέλεις;",
-          "answer_to_correct" : "ΕΞΗ",
           "hints" : "0,1,2,3,4,5,6,7,8",
           "disabled_hints" : "yes"
     },
@@ -42,7 +37,6 @@
           "text": "Βάλε άνω και κάτω τελεία",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Όνομα: Ελένη",
-          "answer_to_correct" : "ΑΤΠΕ",
           "hints" : "0,1,2,3,4,6,7,8,9,10,11",
           "disabled_hints" : "yes"
     },
@@ -50,7 +44,6 @@
           "text": "Βάλε άνω και κάτω τελεία",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Επίθετο: Παπαδοπούλου",
-          "answer_to_correct" : "ΩΚΤΟ",
           "hints" : "0,1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20",
           "disabled_hints" : "yes"
     },
@@ -58,7 +51,6 @@
           "text": "Βάλε άνω και κάτω τελεία",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Νησιά: Κρήτη, Σαμοθράκη",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "0,1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
           "disabled_hints" : "yes"
     },
@@ -66,7 +58,6 @@
           "text": "Βάλε άνω και κάτω τελεία",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Χρώματα: Μαύρο, Άσπρο",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "0,1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
           "disabled_hints" : "yes"
     },
@@ -74,7 +65,6 @@
           "text": "Βάλε άνω και κάτω τελεία",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Βουνά: Όλυμπος, Κίσσαβος",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "0,1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
           "disabled_hints" : "yes"
     },
@@ -82,7 +72,6 @@
           "text": "Βάλε άνω και κάτω τελεία",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Ζώα: Άλογο, Αράχνη",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "0,1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
           "disabled_hints" : "yes"
     },
@@ -90,7 +79,6 @@
           "text": "Βάλε άνω και κάτω τελεία",
           "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
           "answer" : "Φαγητά: Μακαρόνια, Πατάτες",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
           "disabled_hints" : "yes"
     }

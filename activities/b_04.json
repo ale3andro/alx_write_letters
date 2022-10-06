@@ -2,7 +2,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/agelada.png",
           "answer" : "Αγελάδα",
-          "answer_to_correct" : "ΔΙΩ",
           "hints" : "0,1",
           "disabled_hints" : "yes"
     },
@@ -10,7 +9,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/arkouda.png",
           "answer" : "Αρκούδα",
-          "answer_to_correct" : "ΡΤΕΑ",
           "hints" : "3,4",
           "disabled_hints" : "yes"
     },
@@ -18,7 +16,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/elefantas.png",
           "answer" : "Ελέφαντας",
-          "answer_to_correct" : "ΡΑΤΕΣΣΕ",
           "hints" : "2,5",
           "disabled_hints" : "yes"
     },
@@ -26,7 +23,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/gata.png",
           "answer" : "Γάτα",
-          "answer_to_correct" : "ΝΤΕΠΕ",
           "hints" : "0,2",
           "disabled_hints" : "yes"
     },
@@ -34,7 +30,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/gourouni.png",
           "answer" : "Γουρούνι",
-          "answer_to_correct" : "ΕΞΗ",
           "hints" : "1,4",
           "disabled_hints" : "yes"
     },
@@ -42,7 +37,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/kamilopardalh.png",
           "answer" : "Καμηλοπάρδαλη",
-          "answer_to_correct" : "ΑΤΠΕ",
           "hints" : "4,7",
           "disabled_hints" : "yes"
     },
@@ -50,7 +44,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/koala.png",
           "answer" : "Κοάλα",
-          "answer_to_correct" : "ΩΚΤΟ",
           "hints" : "1,2",
           "disabled_hints" : "yes"
     },
@@ -58,7 +51,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/lagos.png",
           "answer" : "Λαγός",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "2,3",
           "disabled_hints" : "yes"
     },
@@ -66,7 +58,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/liontari.png",
           "answer" : "Λιοντάρι",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "4,5",
           "disabled_hints" : "yes"
     },
@@ -74,7 +65,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/maimou.png",
           "answer" : "Μαϊμού",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "1,2",
           "disabled_hints" : "yes"
     },
@@ -82,7 +72,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/papi.png",
           "answer" : "Παπί",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "2",
           "disabled_hints" : "yes"
     },
@@ -90,7 +79,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/provato.png",
           "answer" : "Πρόβατο",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "4,5",
           "disabled_hints" : "yes"
     },
@@ -98,7 +86,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/skulos.png",
           "answer" : "Σκύλος",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "2,3",
           "disabled_hints" : "yes"
     },
@@ -106,7 +93,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/vatraxos.png",
           "answer" : "Βάτραχος",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "1,5",
           "disabled_hints" : "yes"
     },
@@ -114,7 +100,6 @@
           "text": "Βάλε τόνους και κεφαλαία γράμματα",
           "image" : "images/b_04/tonoi_kefalaia/zebra.png",
           "answer" : "Ζέβρα",
-          "answer_to_correct" : "ΑΙΝΝΕ",
           "hints" : "3",
           "disabled_hints" : "yes"
     }
