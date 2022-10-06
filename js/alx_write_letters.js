@@ -128,14 +128,16 @@ $( document ).ready(function() {
 
     
 
-    function build_alx_letters(answer, hints) {
+    function build_alx_letters(answer, hints, answer_to_correct='') {
         var return_value = '';
         var all_hints = hints.split(',');
-
+       
         for (var i=0; i<answer.length; i++) {
             return_value = return_value + '<input id="letter' + i + '" type="text" maxlength="1" size="1" class="onecharonly" ';
-            if (all_hints.indexOf(i.toString())>=0) 
-                return_value = return_value + 'value="' + answer.charAt(i) +'" disabled';
+            if (answer_to_correct!='')
+                return_value = return_value + 'value="' + answer_to_correct.charAt(i) + '" enabled';
+            else if (all_hints.indexOf(i.toString())>=0)
+                return_value = return_value + 'value="' + answer.charAt(i) + '" disabled';
             return_value = return_value + '/>';
         }
         return return_value;
@@ -146,7 +148,10 @@ $( document ).ready(function() {
         $('#alx_questionnumber').html(question_num+1);
         $('#alx_text').html(questions[question_num].text);
         $('#alx_image').html('<img class="img-responsive" src="' + questions[question_num].image +'" />');
-        $('#alx_letters').html(build_alx_letters(questions[question_num].answer, questions[question_num].hints));
+        if (questions[question_num].hasOwnProperty("answer_to_correct"))
+            $('#alx_letters').html(build_alx_letters(questions[question_num].answer, questions[question_num].hints, questions[question_num].answer_to_correct));    
+        else
+            $('#alx_letters').html(build_alx_letters(questions[question_num].answer, questions[question_num].hints, ''));
         $('#next_question_button').hide();
         $('#alx_happyface').html('<img src="images/garfield.gif"></img>');
         $('#alx_answer').html(questions[question_num].answer);
