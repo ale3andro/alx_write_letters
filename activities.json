@@ -1,190 +1,205 @@
-[   {
-      "id": "b_01",
-      "class" : "2",
-      "description" : "Β τάξη - Τα μέρη του σώματος",
-      "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
-      "filename" : "activities/b_01.json"
-    },
-    {
-      "id": "b_13",
-      "class" : "2",
-      "description" : "Β τάξη - Μέρη του σώματος που καταπονούνται μετά από πολλές ώρες στον ΗΥ",
-      "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
-      "filename" : "activities/b_13.json"
-    },
-    {
-      "id": "b_02",
-      "class" : "2",
-      "description" : "B τάξη - Κεφαλαία γραμματα χωρίς τόνους",
-      "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
-      "filename" : "activities/b_02.json"
-    },
-    {
-      "id": "b_03",
-      "class" : "2",
-      "description" : "B τάξη - Διόρθωση λέξης",
-      "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
-      "filename" : "activities/b_03.json"
-    },
-    {
-      "id": "b_04",
-      "class" : "2",
-      "description" : "B τάξη - Τόνοι & κεφαλαία γράμματα",
-      "full_description" : "Κεφαλαία &amp; μικρά γράμματα με τόνους - Πρώτο γράμμα κεφαλαίο",
-      "filename" : "activities/b_04.json"
-    },
-    {
-      "id": "b_05",
-      "class" : "2",
-      "description" : "B τάξη - Ερωτηματικό & άνω κάτω τελεία",
-      "full_description" : "Ερωτηματικό & άνω κάτω τελεία",
-      "filename" : "activities/b_05.json"
-    },
-    {
-      "id": "b_06",
-      "class" : "2",
-      "description" : "B τάξη - Ελληνικά και αγγλικά γράμματα",
-      "full_description" : "Ελληνικά &amp; Αγγλικά γράμματα, μικρά &amp; κεφαλαία και τόνοι - Πρώτο γράμμα κεφαλαίο",
-      "filename" : "activities/b_06.json"
-    },
-    {
-      "id": "b_07",
-      "class" : "2",
-      "description" : "B τάξη - Σύμβολα του πληκτρολογίου",
-      "full_description" : "Σύμβολα και αριθμοί",
-      "filename" : "activities/b_07.json"
-    },
-    {
-      "id": "b_08",
-      "class" : "2",
-      "description" : "B τάξη - Υλικό Η/Υ - Μητρική πλακέτα",
-      "full_description" : "Κουτί και μητρική πλακέτα",
-      "filename" : "activities/b_08.json"
-    },
-    {
-      "id": "b_09",
-      "class" : "2",
-      "description" : "B τάξη - Υλικό Η/Υ - Μνήμη &amp; Σκληρός δίσκος",
-      "full_description" : "Μνήμη &amp; Σκληρός δίσκος",
-      "filename" : "activities/b_09.json"
-    },
-    {
-      "id": "b_10",
-      "class" : "2",
-      "description" : "B τάξη - Υλικό Η/Υ - Επεξεργαστής &amp; Ψύκτρα",
-      "full_description" : "Επεξεργαστής &amp; Ψύκτρα",
-      "filename" : "activities/b_10.json"
-    },
-    {
-      "id": "b_11",
-      "class" : "2",
-      "description" : "B τάξη - Υλικό Η/Υ - Τροφοδοτικό &amp; Ανεμιστηράκια",
-      "full_description" : "Τροφοδοτικό &amp; Ανεμιστηράκια",
-      "filename" : "activities/b_11.json"
-    },
-    {
-      "id": "b_12",
-      "class" : "2",
-      "description" : "B τάξη - Υλικό Η/Υ - Επανάληψη στο υλικό του Υπολογιστή;",
-      "full_description" : "Τι είναι αυτό που βλέπω",
-      "filename" : "activities/b_12.json"
-    },
-    {
-      "id": "b_14",
-      "class" : "2",
-      "description" : "B τάξη - Υλικό Η/Υ - Τι δουλειά κάνει το κάθε κομμάτι του ΗΥ;",
-      "full_description" : "Απάντησε στις ερωτήσεις σχετικά με το τι κάνει το κάθε κομμάτι του ΗΥ",
-      "filename" : "activities/b_14.json"
-    },
-    {
-      "id": "b_15",
-      "class" : "2",
-      "description" : "B τάξη - Παραμύθι για τα προσωπικά δεδομένα",
-      "full_description" : "Ερωτήσεις σχετικά με το παραμύθι που διαβάσαμε στην τάξη",
-      "filename" : "activities/b_15.json"
-    },
-    {
-      "id": "a_01",
-      "class" : "1",
-      "description" : "Α τάξη - Πληκτρολόγιο 101 - Κ και Δ",
-      "full_description" : "Ξεκινώ με το πληκτρολόγιο - Κ και Δ",
-      "filename" : "activities/a_01.json"
-    },
-    {
-      "id": "a_02",
-      "class" : "1",
-      "description" : "Α τάξη - Πληκτρολόγιο 101 - Φ και Ξ",
-      "full_description" : "Ξεκινώ με το πληκτρολόγιο - Φ και Ξ",
-      "filename" : "activities/a_02.json"
-    },
-    {
-      "id": "a_03",
-      "class" : "1",
-      "description" : "Α τάξη - Πληκτρολόγιο 101 - Σ και Λ",
-      "full_description" : "Ξεκινώ με το πληκτρολόγιο - Σ και Λ",
-      "filename" : "activities/a_03.json"
-    },
-    {
-      "id": "a_04",
-      "class" : "1",
-      "description" : "Α τάξη - Πληκτρολόγιο 101 - Κ ή Δ",
-      "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται; Το Κ ή το Δ;",
-      "filename" : "activities/a_04.json"
-    },
-    {
-      "id": "a_05",
-      "class" : "1",
-      "description" : "Α τάξη - Πληκτρολόγιο 101 - Φ ή Ξ",
-      "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται; Το Φ ή το Ξ;",
-      "filename" : "activities/a_05.json"
-    },
-    {
-      "id": "a_06",
-      "class" : "1",
-      "description" : "Α τάξη - Ι * Συμπλήρωσε τα γράμματα που λείπουν",
-      "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται για συμπληρωθεί η λέξη;",
-      "filename" : "activities/a_06.json"
-    },
-    {
-      "id": "a_07",
-      "class" : "1",
-      "description" : "Α τάξη - ΙΙ * Συμπλήρωσε τα γράμματα που λείπουν",
-      "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται για συμπληρωθεί η λέξη;",
-      "filename" : "activities/a_07.json"
-    },
-    {
-      "id": "a_08",
-      "class" : "1",
-      "description" : "Α τάξη - ΙΙΙ * Συμπλήρωσε τα γράμματα που λείπουν",
-      "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται για συμπληρωθεί η λέξη;",
-      "filename" : "activities/a_08.json"
-    },
-    {
-      "id": "a_09",
-      "class" : "1",
-      "description" : "Α τάξη - Τι ώρα είναι; (ολόκληρες ώρες)",
-      "full_description" : "Τι ώρα δείχνει το ρολόι",
-      "filename" : "activities/a_09.json"
-    },
-    {
-      "id": "a_10",
-      "class" : "1",
-      "description" : "Α τάξη - Τι ώρα είναι; Κεφαλαία και μικρά γράμματα",
-      "full_description" : "Τι ώρα δείχνει το ρολόι",
-      "filename" : "activities/a_10.json"
-    },
-    {
-      "id": "a_11",
-      "class" : "1",
-      "description" : "Α τάξη - Μέσα μεταφοράς",
-      "full_description" : "Συμπλήρωσε τις λέξεις - Μεταφορικά μέσα",
-      "filename" : "activities/a_11.json"
-    },
-    {
-      "id": "c_01",
-      "class" : "3",
-      "description" : "Γ τάξη - Πληκτρολόγιο επανάληψη",
-      "full_description" : "Επαναληπτική δραστηριότητα στο πληκτρολόγιο",
-      "filename" : "activities/c_01.json"
-    }
+[   
+  {
+    "id": "a_01",
+    "class" : "1",
+    "description" : "Α τάξη - Πληκτρολόγιο 101 - Κ και Δ",
+    "full_description" : "Ξεκινώ με το πληκτρολόγιο - Κ και Δ",
+    "filename" : "activities/a_01.json"
+  },
+  {
+    "id": "a_02",
+    "class" : "1",
+    "description" : "Α τάξη - Πληκτρολόγιο 101 - Φ και Ξ",
+    "full_description" : "Ξεκινώ με το πληκτρολόγιο - Φ και Ξ",
+    "filename" : "activities/a_02.json"
+  },
+  {
+    "id": "a_03",
+    "class" : "1",
+    "description" : "Α τάξη - Πληκτρολόγιο 101 - Σ και Λ",
+    "full_description" : "Ξεκινώ με το πληκτρολόγιο - Σ και Λ",
+    "filename" : "activities/a_03.json"
+  },
+  {
+    "id": "a_04",
+    "class" : "1",
+    "description" : "Α τάξη - Πληκτρολόγιο 101 - Κ ή Δ",
+    "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται; Το Κ ή το Δ;",
+    "filename" : "activities/a_04.json"
+  },
+  {
+    "id": "a_05",
+    "class" : "1",
+    "description" : "Α τάξη - Πληκτρολόγιο 101 - Φ ή Ξ",
+    "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται; Το Φ ή το Ξ;",
+    "filename" : "activities/a_05.json"
+  },
+  {
+    "id": "a_06",
+    "class" : "1",
+    "description" : "Α τάξη - Ι * Συμπλήρωσε τα γράμματα που λείπουν",
+    "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται για συμπληρωθεί η λέξη;",
+    "filename" : "activities/a_06.json"
+  },
+  {
+    "id": "a_07",
+    "class" : "1",
+    "description" : "Α τάξη - ΙΙ * Συμπλήρωσε τα γράμματα που λείπουν",
+    "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται για συμπληρωθεί η λέξη;",
+    "filename" : "activities/a_07.json"
+  },
+  {
+    "id": "a_08",
+    "class" : "1",
+    "description" : "Α τάξη - ΙΙΙ * Συμπλήρωσε τα γράμματα που λείπουν",
+    "full_description" : "Ξεκινώ με το πληκτρολόγιο - Ποιό γράμμα χρειάζεται για συμπληρωθεί η λέξη;",
+    "filename" : "activities/a_08.json"
+  },
+  {
+    "id": "a_09",
+    "class" : "1",
+    "description" : "Α τάξη - Τι ώρα είναι; (ολόκληρες ώρες)",
+    "full_description" : "Τι ώρα δείχνει το ρολόι",
+    "filename" : "activities/a_09.json"
+  },
+  {
+    "id": "a_10",
+    "class" : "1",
+    "description" : "Α τάξη - Τι ώρα είναι; Κεφαλαία και μικρά γράμματα",
+    "full_description" : "Τι ώρα δείχνει το ρολόι",
+    "filename" : "activities/a_10.json"
+  },
+  {
+    "id": "a_11",
+    "class" : "1",
+    "description" : "Α τάξη - Μέσα μεταφοράς",
+    "full_description" : "Συμπλήρωσε τις λέξεις - Μεταφορικά μέσα",
+    "filename" : "activities/a_11.json"
+  },
+  {
+    "id": "a_12",
+    "class" : "1",
+    "description" : "Α τάξη - Το μικρό γράμμα δ",
+    "full_description" : "Μικρό γράμμα δ - Α τάξη - πρώτα μαθήματα",
+    "filename" : "activities/a_12.json"
+  },
+  {
+    "id": "a_13",
+    "class" : "1",
+    "description" : "Α τάξη - Το μικρό γράμμα κ",
+    "full_description" : "Μικρό γράμμα κ - Α τάξη - πρώτα μαθήματα",
+    "filename" : "activities/a_13.json"
+  },
+  {
+    "id": "b_01",
+    "class" : "2",
+    "description" : "Β τάξη - Τα μέρη του σώματος",
+    "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
+    "filename" : "activities/b_01.json"
+  },
+  {
+    "id": "b_13",
+    "class" : "2",
+    "description" : "Β τάξη - Μέρη του σώματος που καταπονούνται μετά από πολλές ώρες στον ΗΥ",
+    "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
+    "filename" : "activities/b_13.json"
+  },
+  {
+    "id": "b_02",
+    "class" : "2",
+    "description" : "B τάξη - Κεφαλαία γραμματα χωρίς τόνους",
+    "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
+    "filename" : "activities/b_02.json"
+  },
+  {
+    "id": "b_03",
+    "class" : "2",
+    "description" : "B τάξη - Διόρθωση λέξης",
+    "full_description" : "Όλα τα γράμματα κεφαλαία - χωρίς τόνους",
+    "filename" : "activities/b_03.json"
+  },
+  {
+    "id": "b_04",
+    "class" : "2",
+    "description" : "B τάξη - Τόνοι & κεφαλαία γράμματα",
+    "full_description" : "Κεφαλαία &amp; μικρά γράμματα με τόνους - Πρώτο γράμμα κεφαλαίο",
+    "filename" : "activities/b_04.json"
+  },
+  {
+    "id": "b_05",
+    "class" : "2",
+    "description" : "B τάξη - Ερωτηματικό & άνω κάτω τελεία",
+    "full_description" : "Ερωτηματικό & άνω κάτω τελεία",
+    "filename" : "activities/b_05.json"
+  },
+  {
+    "id": "b_06",
+    "class" : "2",
+    "description" : "B τάξη - Ελληνικά και αγγλικά γράμματα",
+    "full_description" : "Ελληνικά &amp; Αγγλικά γράμματα, μικρά &amp; κεφαλαία και τόνοι - Πρώτο γράμμα κεφαλαίο",
+    "filename" : "activities/b_06.json"
+  },
+  {
+    "id": "b_07",
+    "class" : "2",
+    "description" : "B τάξη - Σύμβολα του πληκτρολογίου",
+    "full_description" : "Σύμβολα και αριθμοί",
+    "filename" : "activities/b_07.json"
+  },
+  {
+    "id": "b_08",
+    "class" : "2",
+    "description" : "B τάξη - Υλικό Η/Υ - Μητρική πλακέτα",
+    "full_description" : "Κουτί και μητρική πλακέτα",
+    "filename" : "activities/b_08.json"
+  },
+  {
+    "id": "b_09",
+    "class" : "2",
+    "description" : "B τάξη - Υλικό Η/Υ - Μνήμη &amp; Σκληρός δίσκος",
+    "full_description" : "Μνήμη &amp; Σκληρός δίσκος",
+    "filename" : "activities/b_09.json"
+  },
+  {
+    "id": "b_10",
+    "class" : "2",
+    "description" : "B τάξη - Υλικό Η/Υ - Επεξεργαστής &amp; Ψύκτρα",
+    "full_description" : "Επεξεργαστής &amp; Ψύκτρα",
+    "filename" : "activities/b_10.json"
+  },
+  {
+    "id": "b_11",
+    "class" : "2",
+    "description" : "B τάξη - Υλικό Η/Υ - Τροφοδοτικό &amp; Ανεμιστηράκια",
+    "full_description" : "Τροφοδοτικό &amp; Ανεμιστηράκια",
+    "filename" : "activities/b_11.json"
+  },
+  {
+    "id": "b_12",
+    "class" : "2",
+    "description" : "B τάξη - Υλικό Η/Υ - Επανάληψη στο υλικό του Υπολογιστή;",
+    "full_description" : "Τι είναι αυτό που βλέπω",
+    "filename" : "activities/b_12.json"
+  },
+  {
+    "id": "b_14",
+    "class" : "2",
+    "description" : "B τάξη - Υλικό Η/Υ - Τι δουλειά κάνει το κάθε κομμάτι του ΗΥ;",
+    "full_description" : "Απάντησε στις ερωτήσεις σχετικά με το τι κάνει το κάθε κομμάτι του ΗΥ",
+    "filename" : "activities/b_14.json"
+  },
+  {
+    "id": "b_15",
+    "class" : "2",
+    "description" : "B τάξη - Παραμύθι για τα προσωπικά δεδομένα",
+    "full_description" : "Ερωτήσεις σχετικά με το παραμύθι που διαβάσαμε στην τάξη",
+    "filename" : "activities/b_15.json"
+  },
+  {
+    "id": "c_01",
+    "class" : "3",
+    "description" : "Γ τάξη - Πληκτρολόγιο επανάληψη",
+    "full_description" : "Επαναληπτική δραστηριότητα στο πληκτρολόγιο",
+    "filename" : "activities/c_01.json"
+  }
 ]

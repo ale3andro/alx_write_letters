@@ -1,0 +1,83 @@
+[   
+        
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/kota.jpg",
+        "answer" : "κότα",
+        "hints" : "1,2,3",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/koudouni.jpg",
+        "answer" : "κουδούνι",
+        "hints" : "1,2,3,4,5,6,7,8",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/arkouda.jpg",
+        "answer" : "αρκούδα",
+        "hints" : "0,1,3,4,5,6",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/kastro.png",
+        "answer" : "κάστρο",
+        "hints" : "1,2,3,4,5,6",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/kyknos.jpg",
+        "answer" : "κύκνος",
+        "hints" : "1,2,3,4,5,6",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/ferret.png",
+        "answer" : "κουνάβι",
+        "hints" : "1,2,3,4,5,6",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/boat.png",
+        "answer" : "καράβι",
+        "hints" : "1,2,3,4,5",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/bottle-cap.png",
+        "answer" : "καπάκι",
+        "hints" : "1,2,3,4,5",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/circle.png",
+        "answer" : "κύκλος",
+        "hints" : "1,3,4,5",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Γράψε μέσα στα κουτάκια το γράμμα κ",
+        "image" : "images/a_01/k_and_d/pinecone.png",
+        "answer" : "κουκουνάρα",
+        "hints" : "1,2,4,5,6,7,8,9",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    }
+]
