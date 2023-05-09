@@ -2,7 +2,7 @@
       {
             "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
             "image" : "images/a_01/k_and_d/kota.jpg",
-            "answer" : "ΚΟΤΑ",
+            "answer" : "κοτα",
             "hints" : "1,2,3",
             "disabled_hints" : "yes",
             "allow_reload" : "yes"
@@ -10,7 +10,7 @@
       {
             "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
             "image" : "images/a_01/k_and_d/dasos.jpg",
-            "answer" : "ΔΑΣΟΣ",
+            "answer" : "δασος",
             "hints" : "1,2,3,4",
             "disabled_hints" : "yes",
             "allow_reload" : "yes"
@@ -18,7 +18,7 @@
       {
             "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
             "image" : "images/a_01/k_and_d/koudouni.jpg",
-            "answer" : "ΚΟΥΔΟΥΝΙ",
+            "answer" : "κουδουνι",
             "hints" : "1,2,3,4,5,6,7,8",
             "disabled_hints" : "yes",
             "allow_reload" : "yes"
@@ -26,7 +26,7 @@
       {
             "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
             "image" : "images/a_01/k_and_d/dakri.gif",
-            "answer" : "ΔΑΚΡΥ",
+            "answer" : "δακρυ",
             "hints" : "1,2,3,4",
             "disabled_hints" : "yes",
             "allow_reload" : "yes"
@@ -34,7 +34,7 @@
       {
           "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
           "image" : "images/a_01/k_and_d/kyknos.jpg",
-          "answer" : "ΚΥΚΝΟΣ",
+          "answer" : "κυκνος",
           "hints" : "1,2,3,4,5,6",
           "disabled_hints" : "yes",
           "allow_reload" : "yes"
@@ -42,7 +42,7 @@
       {
             "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
             "image" : "images/a_01/k_and_d/dema.png",
-            "answer" : "ΔΕΜΑ",
+            "answer" : "δεμα",
             "hints" : "1,2,3",
             "disabled_hints" : "yes",
             "allow_reload" : "yes"
@@ -50,7 +50,7 @@
       {
           "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
           "image" : "images/a_01/k_and_d/kastro.png",
-          "answer" : "ΚΑΣΤΡΟ",
+          "answer" : "καστρο",
           "hints" : "1,2,3,4,5,6",
           "disabled_hints" : "yes",
           "allow_reload" : "yes"
@@ -58,7 +58,7 @@
       {
             "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
             "image" : "images/a_01/k_and_d/deka.png",
-            "answer" : "ΔΕΚΑ",
+            "answer" : "δεκα",
             "hints" : "1,2,3",
             "disabled_hints" : "yes",
             "allow_reload" : "yes"
@@ -66,7 +66,7 @@
       {
             "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
             "image" : "images/a_01/k_and_d/arkouda.jpg",
-            "answer" : "ΑΡΚΟΥΔΑ",
+            "answer" : "αρκουδα",
             "hints" : "0,1,3,4,5,6",
             "disabled_hints" : "yes",
             "allow_reload" : "yes"
@@ -74,7 +74,7 @@
       {
             "text": "Ποιό γράμμα χρειάζεται το Δ ή το Κ;",
             "image" : "images/a_01/k_and_d/daktylidi.gif",
-            "answer" : "ΔΑΚΤΥΛΙΔΙ",
+            "answer" : "δακτυλιδι",
             "hints" : "1,2,3,4,5,6,7,8",
             "disabled_hints" : "yes",
             "allow_reload" : "yes"
