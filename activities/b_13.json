@@ -3,41 +3,47 @@
       "image" : "images/b_13/image01.png",
       "answer" : "ΑΥΧΕΝΑΣ",
       "hints" : "0,1,6",
-      "disabled_hints" : "yes"
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
     },
     {
       "text": "Πως ονομάζεται το μέρος του σώματος στο οποίο δείχνει το μπαλονάκι;",
       "image" : "images/b_13/image02.png",
       "answer" : "ΠΛΑΤΗ",
       "hints" : "0,1",
-      "disabled_hints" : "yes"
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
     },
     {
           "text": "Πως ονομάζεται το μέρος του σώματος στο οποίο δείχνει το μπαλονάκι;",
           "image" : "images/b_13/image03.png",
           "answer" : "ΜΕΣΗ",
           "hints" : "0",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Πως ονομάζεται το μέρος του σώματος στο οποίο δείχνει το μπαλονάκι;",
           "image" : "images/b_13/image04.png",
           "answer" : "ΚΑΡΠΟΣ",
           "hints" : "0,1,5",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Πως ονομάζεται το μέρος του σώματος στο οποίο δείχνει το μπαλονάκι;",
           "image" : "images/b_13/image05.png",
           "answer" : "ΑΣΤΡΑΓΑΛΟΣ",
           "hints" : "0,1,3,4",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Πως ονομάζεται το μέρος του σώματος στο οποίο δείχνει το μπαλονάκι;",
           "image" : "images/b_13/image06.png",
           "answer" : "ΓΟΝΑΤΟ",
           "hints" : "0,1,5",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     }
 ]
