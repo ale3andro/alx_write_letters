@@ -91,6 +91,13 @@
     "filename" : "activities/a_13.json"
   },
   {
+    "id": "a_14",
+    "class" : "1",
+    "description" : "Α τάξη - Σήματα ΚΟΚ",
+    "full_description" : "Συμπλήρωσε τα γράμματα που λείπουν - Σήματα ΚΟΚ",
+    "filename" : "activities/a_14.json"
+  },
+  {
     "id": "b_01",
     "class" : "2",
     "description" : "Β τάξη - Τα μέρη του σώματος",

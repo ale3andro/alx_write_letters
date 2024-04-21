@@ -1,0 +1,83 @@
+[   
+        
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/05.png",
+        "answer" : "στοπ",
+        "hints" : "",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/01.png",
+        "answer" : "ποδηλατόδρομος",
+        "hints" : "4,5,6,7,8,9,10,11,12,13",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/02.png",
+        "answer" : "αδιέξοδο",
+        "hints" : "3,5,6,7,8,9,10,11,12,13",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/04.png",
+        "answer" : "κόρνα",
+        "hints" : "1",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/06.png",
+        "answer" : "μονόδρομος",
+        "hints" : "3,5,6,7,8,9,10,11,12,13",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/07.png",
+        "answer" : "πεζόδρομος",
+        "hints" : "3,5,6,7,8,9,10,11,12,13,14,15",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/08.png",
+        "answer" : "νοσοκομείο",
+        "hints" : "4,5,6,7,8,9,10,11,12,13,14,15",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/09.png",
+        "answer" : "σχολείο",
+        "hints" : "4,5,6,7,8,9,10,11,12,13,14,15",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/00.png",
+        "answer" : "κυκλικός κόμβος",
+        "hints" : "4,5,6,7,8,9,10,11,12,13,14",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    },
+    {
+        "text": "Συμπλήρωσε τα γράμματα που λείπουν",
+        "image" : "images/a_14/03.png",
+        "answer" : "στάση λεωφορείου",
+        "hints" : "0,1,2,3,4,5,10,11,12,13,14,15,16",
+        "disabled_hints" : "yes",
+        "allow_reload" : "yes"
+    }
+]
