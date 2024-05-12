@@ -203,6 +203,13 @@
     "filename" : "activities/b_15.json"
   },
   {
+    "id": "b_16",
+    "class" : "2",
+    "description" : "B τάξη - Ομάδες Τροφίμων",
+    "full_description" : "Ερωτήσεις σχετικά με τις ομάδες τροφίμων",
+    "filename" : "activities/b_16.json"
+  },
+  {
     "id": "c_01",
     "class" : "3",
     "description" : "Γ τάξη - Πληκτρολόγιο επανάληψη",

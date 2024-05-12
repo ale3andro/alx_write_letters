@@ -1,0 +1,66 @@
+[   
+    {
+      "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
+      "image" : "images/b_16/img0.png",
+      "answer" : "Δημητριακά",
+      "hints" : "0",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
+      "image" : "images/b_16/img1.png",
+      "answer" : "Γαλακτοκομικά",
+      "hints" : "0",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
+      "image" : "images/b_16/img2.png",
+      "answer" : "Φρούτα",
+      "hints" : "0",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
+      "image" : "images/b_16/img3.png",
+      "answer" : "Λαχανικά",
+      "hints" : "0",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
+      "image" : "images/b_16/img4.png",
+      "answer" : "Κρέας",
+      "hints" : "0,5",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
+      "image" : "images/b_16/img5.png",
+      "answer" : "Όσπρια",
+      "hints" : "0,5",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
+      "image" : "images/b_16/img6.png",
+      "answer" : "Λάδια",
+      "hints" : "0,5",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    },
+    {
+      "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
+      "image" : "images/b_16/img7.png",
+      "answer" : "Γλυκα",
+      "hints" : "0,5",
+      "disabled_hints" : "yes",
+      "allow_reload" : "yes"
+    }
+]
