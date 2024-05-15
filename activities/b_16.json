@@ -58,7 +58,7 @@
     {
       "text": "Ποιο είναι το όνομα της ομαδας τροφίμων;",
       "image" : "images/b_16/img7.png",
-      "answer" : "Γλυκα",
+      "answer" : "Γλυκά",
       "hints" : "0,5",
       "disabled_hints" : "yes",
       "allow_reload" : "yes"
