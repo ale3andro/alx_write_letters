@@ -16,14 +16,6 @@
           "allow_reload" : "yes"
     },
     {
-          "text": "Χρησιμοποίησε με για να γράψεις. (Κεφαλαία γράμματα χωρίς τόνους)",
-          "image" : "images/b_14/keyboard.png",
-          "answer" : "ΠΛΗΚΤΡΟΛΟΓΙΟ",
-          "hints" : "0",
-          "disabled_hints" : "yes",
-          "allow_reload" : "yes"
-    },
-    {
           "text": "Με χρειάζεσαι για να ακούσεις τραγούδια. (Κεφαλαία γράμματα χωρίς τόνους)",
           "image" : "images/b_14/speakers.png",
           "answer" : "ΗΧΕΙΑ",
@@ -62,5 +54,13 @@
       "hints" : "0",
       "disabled_hints" : "yes",
       "allow_reload" : "yes"
+      },
+      {
+            "text": "Χρησιμοποίησε με για να γράψεις. (Κεφαλαία γράμματα χωρίς τόνους)",
+            "image" : "images/b_14/keyboard.png",
+            "answer" : "ΠΛΗΚΤΡΟΛΟΓΙΟ",
+            "hints" : "0",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
       }
 ]
