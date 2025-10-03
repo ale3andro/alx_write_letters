@@ -1,0 +1,99 @@
+[   {
+          "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
+          "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
+          "answer" : "Τι κάνεις;",
+          "hints" : "0,1,2,3,4,5,6,7,8",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
+          "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
+          "answer" : "Τι ώρα είναι;",
+          "hints" : "0,1,2,3,4,5,6,7,8,9,10,11",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε ερωτηματικά στο τέλος της κάθε πρότασης",
+          "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
+          "answer" : "Σου αρέσει;",
+          "hints" : "0,1,2,3,4,5,6,7,8,9",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε άνω και κάτω τελεία",
+          "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
+          "answer" : "Όνομα: Ελένη",
+          "hints" : "0,1,2,3,4,6,7,8,9,10,11",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε άνω και κάτω τελεία",
+          "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
+          "answer" : "Νούμερα: 1,2,3",
+          "hints" : "0,1,2,3,4,5,6,8,9,10,11,12,13",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε άνω και κάτω τελεία",
+          "image" : "images/b_05/erwthmatiko_anw_katw_teleia/colon-and-semicolon.jpg",
+          "answer" : "Νησί: Κρήτη",
+          "hints" : "0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε θαυμαστικό",
+          "image" : "images/c_02/symbols.png",
+          "answer" : "Καλημέρα!",
+          "hints" : "0,1,2,3,4,5,6,7",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε παπάκι",
+          "image" : "images/c_02/symbols.png",
+          "answer" : "παπάκι@",
+          "hints" : "0,1,2,3,4,5",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε δίεση",
+          "image" : "images/c_02/symbols.png",
+          "answer" : "Δίεση#",
+          "hints" : "0,1,2,3,4",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε δολάριο",
+          "image" : "images/c_02/symbols.png",
+          "answer" : "Δολάριο$",
+          "hints" : "0,1,2,3,4,5,6",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Βάλε το επι τοις εκατό",
+          "image" : "images/c_02/symbols.png",
+          "answer" : "Επί τοις εκατό%",
+          "hints" : "0,1,2,3,4,5,6,7,8,9,10,11,12,13",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Καπελάκι",
+          "image" : "images/c_02/symbols.png",
+          "answer" : "Καπελάκι^",
+          "hints" : "0,1,2,3,4,5,6,7",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Αστεράκι",
+          "image" : "images/c_02/symbols.png",
+          "answer" : "Αστεράκι*",
+          "hints" : "0,1,2,3,4,5,6,7",
+          "disabled_hints" : "yes"
+    },
+    {
+          "text": "Παρενθέσεις ()",
+          "image" : "images/c_02/symbols.png",
+          "answer" : "Παρενθέσεις()",
+          "hints" : "0,1,2,3,4,5,6,7,8,9,10",
+          "disabled_hints" : "yes"
+    }
+]
