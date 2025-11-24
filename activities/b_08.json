@@ -2,56 +2,64 @@
           "text": "Σε αυτό το μάθημα ασχολούμαστε με το ____ του υπολογιστή",
           "image" : "images/b_08/yliko-hy-01/pc-case.png",
           "answer" : "Εσωτερικό",
-          "hints" : "0,1,2,3,8",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,2,3,4,5,8",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Είναι ασφαλές να ανοίγουμε μόνοι μας το κουτί του υπολογιστή μας; Ναί ή όχι;",
           "image" : "images/b_08/yliko-hy-01/pc-repair.png",
           "answer" : "Όχι",
           "hints" : "0",
-          "disabled_hints" : "yes"
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Στην εικόνα βλέπουμε μια _________ πλακέτα",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Μητρική",
-          "hints" : "0,1,6",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,2,3,6",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Μπορεί να υπάρξει υπολογιστής χωρίς μητρική πλακέτα. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Λάθος",
-          "hints" : "0,1",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,2",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Η μητρική πλακέτα είναι η ____ πάνω στην οποία τοποθετούνται όλα τα υπόλοιπα εξαρτήματα του εσωτερικού του υπολογιστή.",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Βάση",
-          "hints" : "1",
-          "disabled_hints" : "yes"
+          "hints" : "0,1",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Αυτό που βλέπουμε στην εικόνα <strong>δεν</strong> είναι μητρική πλακέτα.",
           "image" : "images/b_08/yliko-hy-01/hard-disk.png",
           "answer" : "Σωστό",
-          "hints" : "0,4",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Όταν λειτουργεί ο υπολογιστής δεν πρέπει να ακουμπάμε την μητρική πλακέτα γιατί υπάρχει κίνδυνος ηλεκτροπληξίας. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Σωστό",
-          "hints" : "2,3",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Τι συμβολίζει αυτό το σήμα;",
           "image" : "images/b_08/yliko-hy-01/electrocution.png",
           "answer" : "Ηλεκτροπληξία",
-          "hints" : "1,2,3",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,2,3,4,5,8,9,10,11,12",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     }
 ]

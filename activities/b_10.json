@@ -2,56 +2,72 @@
           "text": "Τι βλέπεις σε αυτή την εικόνα;",
           "image" : "images/b_10/yliko-hy-02/cpu.png",
           "answer" : "Επεξεργαστή",
-          "hints" : "1,4",
-          "disabled_hints" : "yes"
+          "answer_to_correct" : "Ζπεξεργαστή",
+          "allow_reload" : "yes",
+          "hints" : "all",
+          "disabled_hints" : "no"
     },
     {
           "text": "Τι βλέπεις σε αυτή την εικόνα;",
           "image" : "images/b_10/yliko-hy-02/cpu-fan.png",
           "answer" : "Ψύκτρα",
-          "hints" : "0,2",
-          "disabled_hints" : "yes"
+          "answer_to_correct" : "Ζύκτρα",
+          "allow_reload" : "yes",
+          "hints" : "all",
+          "disabled_hints" : "no"
     },
     {
           "text": "Ο επεξεργαστής είναι το ____ του υπολογιστή. ",
           "image" : "images/b_10/yliko-hy-02/cpu.png",
           "answer" : "Μυαλό",
-          "hints" : "1",
-          "disabled_hints" : "yes"
+          "answer_to_correct" : "Ζυαλό",
+          "allow_reload" : "yes",
+          "hints" : "all",
+          "disabled_hints" : "no"
     },
     {
           "text": "Η ψύκτρα τοποθετείται ____ από τον επεξεργαστή.",
           "image" : "images/b_10/yliko-hy-02/cpu-fan.png",
           "answer" : "Πάνω",
-          "hints" : "2",
-          "disabled_hints" : "yes"
+          "answer_to_correct" : "Ζάνω",
+          "allow_reload" : "yes",
+          "hints" : "all",
+          "disabled_hints" : "no"
     },
     {
           "text": "Ο επεξεργαστής κάνει γρήγορα τις αριθμητικές ____",
           "image" : "images/b_10/yliko-hy-02/cpu.png",
           "answer" : "Πράξεις",
-          "hints" : "1",
-          "disabled_hints" : "yes"
+          "answer_to_correct" : "Ζράξεις",
+          "allow_reload" : "yes",
+          "hints" : "all",
+          "disabled_hints" : "no"
     },
     {
           "text": "Η ψύκτρα μπαίνει πάνω από τον επεξεργαστή για να τον κρατά _____",
           "image" : "images/b_10/yliko-hy-02/cpu-fan.png",
           "answer" : "Δροσερό",
-          "hints" : "1,6,7,8",
-          "disabled_hints" : "yes"
+          "answer_to_correct" : "Ζροσερό",
+          "allow_reload" : "yes",
+          "hints" : "all",
+          "disabled_hints" : "no"
     },
     {
           "text": "Ένας υπολογιστής μπορεί να λειτουργήσει χωρίς επεξεργαστή. Σωστό ή λάθος;",
           "image" : "images/b_10/yliko-hy-02/cpu.png",
           "answer" : "Λάθος",
-          "hints" : "3",
-          "disabled_hints" : "yes"
+          "answer_to_correct" : "Ζάθος",
+          "allow_reload" : "yes",
+          "hints" : "all",
+          "disabled_hints" : "no"
     },
     {
           "text": "Ο επξεργαστής δεν μπορεί να λειτουργήσει χωρίς ψύκτρα Σωστό ή λάθος;",
           "image" : "images/b_10/yliko-hy-02/cpu-fan.png",
           "answer" : "Σωστό",
-          "hints" : "2,3",
-          "disabled_hints" : "yes"
+          "answer_to_correct" : "Ζωστό",
+          "allow_reload" : "yes",
+          "hints" : "all",
+          "disabled_hints" : "no"
     }
 ]

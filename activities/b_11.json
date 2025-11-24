@@ -2,56 +2,64 @@
           "text": "Τι βλέπεις σε αυτή την εικόνα;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/trofodotiko.png",
           "answer" : "Τροφοδοτικό",
-          "hints" : "1,4",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,2,3,4,5,6,7,8",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Τι βλέπεις σε αυτή την εικόνα;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "Ανεμιστήρας",
-          "hints" : "1,2",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,2,3,4,5,8,9,10",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Το τροφοδοτικό δίνει ____ στον υπολογιστή. ",
           "image" : "images/b_11/trofodotiko-anemisthrakia/trofodotiko.png",
           "answer" : "ρεύμα",
-          "hints" : "1",
-          "disabled_hints" : "yes"
+          "hints" : "0,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Το ανεμιστηράκι διώχνει τον ζεστό ____ μέσα από το κουτί του υπολογιστή",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "αέρα",
-          "hints" : "2",
-          "disabled_hints" : "yes"
+          "hints" : "2,3",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Δεν πρέπει να ανοίγουμε ποτέ το τροφοδοτικό γιατί υπάρχει κίνδυνος ηλεκτρπληξίας. Σωστό ή λάθος;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/trofodotiko.png",
           "answer" : "Σωστό",
-          "hints" : "1",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,2",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Όταν ένα ανεμιστηράκι μαζεύει πολύ ____ κάνει πολύ θόρυβο",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "σκόνη",
-          "hints" : "1,6,7,8",
-          "disabled_hints" : "yes"
+          "hints" : "0,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Ένα τροφοδοτικό είναι φθηνότερο από ένα ανεμιστηράκι. Σωστό ή λάθος;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/trofodotiko.png",
           "answer" : "Λάθος",
-          "hints" : "3",
-          "disabled_hints" : "yes"
+          "hints" : "0,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Το ανεμιστηράκι δεν λειτουργεί χωρίς ρεύμα. Σωστό ή λάθος;",
           "image" : "images/b_11/trofodotiko-anemisthrakia/anemisthraki.png",
           "answer" : "Σωστό",
-          "hints" : "2,3",
-          "disabled_hints" : "yes"
+          "hints" : "0,1,2",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     }
 ]

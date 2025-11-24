@@ -2,56 +2,64 @@
           "text": "Τι βλέπεις σε αυτή την εικόνα;",
           "image" : "images/b_08/yliko-hy-01/ram.png",
           "answer" : "Μνήμη",
-          "hints" : "1,4",
-          "disabled_hints" : "yes"
+          "hints" : "2,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes" 
     },
     {
           "text": "Τι βλέπεις σε αυτή την εικόνα; (2 λέξεις)",
           "image" : "images/b_08/yliko-hy-01/hard-disk.png",
           "answer" : "Σκληρός δίσκος",
-          "hints" : "0,1,7,8",
-          "disabled_hints" : "yes"
+          "hints" : "2,3,4,5,6,7,8,9,10,11,12,13,14",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Η μνήμη είναι πιο γρήγορη από ένα σκληρό δίσκο. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/rabbit.png",
           "answer" : "Σωστό",
-          "hints" : "1",
-          "disabled_hints" : "yes"
+          "hints" : "2,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Ο σκληρός δίσκος αδειάζει όταν κλείνει ο υπολογιστής. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/ram.png",
           "answer" : "Λάθος",
-          "hints" : "2",
-          "disabled_hints" : "yes"
+          "hints" : "1,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Η μνήμη χωράει λιγότερα πράγματα από τον σκληρό δίσκο. Σωστό η λάθος;",
           "image" : "images/b_08/yliko-hy-01/hard-disk.png",
           "answer" : "Σωστό",
-          "hints" : "2",
-          "disabled_hints" : "yes"
+          "hints" : "2,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Αν θέλω να αποθηκεύσω πολλές ταινίες τι θα διαλέξω; Μνήμη ή σκληρό δίσκο; (2 λέξεις)",
           "image" : "images/b_08/yliko-hy-01/ram.png",
           "answer" : "Σκληρό δίσκο",
-          "hints" : "0,1,6,7,8",
-          "disabled_hints" : "yes"
+          "hints" : "2,3,4,5,6,7,8,9,10,11",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Ένας υπολογιστής μπορεί να λειτουργήσει και χωρίς μνήμη και σκληρό δίσκο. Σωστό ή λάθος;",
           "image" : "images/b_08/yliko-hy-01/hard-disk.png",
           "answer" : "Λάθος",
-          "hints" : "3",
-          "disabled_hints" : "yes"
+          "hints" : "1,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     },
     {
           "text": "Η μνήμη και ο σκληρός δίσκος συνδέονται πάνω στην μητρική ____ του υπολογιστή.",
           "image" : "images/b_08/yliko-hy-01/mobo.png",
           "answer" : "Πλακέτα",
-          "hints" : "2,3",
-          "disabled_hints" : "yes"
+          "hints" : "2,3,4,5,6",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
     }
 ]
