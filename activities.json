@@ -98,6 +98,20 @@
     "filename" : "activities/a_14.json"
   },
   {
+    "id": "a_15",
+    "class" : "1",
+    "description" : "Α τάξη - Ζωάκια - Κεφαλαία και μικρά γράμματα (Caps Lock) - Μέρος 1",
+    "full_description" : "Α τάξη - Ζωάκια - Κεφαλαία και μικρά γράμματα (Caps Lock)",
+    "filename" : "activities/a_15.json"
+  },
+  {
+    "id": "a_16",
+    "class" : "1",
+    "description" : "Α τάξη - Ζωάκια - Κεφαλαία και μικρά γράμματα (Caps Lock) - Μέρος 2",
+    "full_description" : "Α τάξη - Ζωάκια - Κεφαλαία και μικρά γράμματα (Caps Lock)",
+    "filename" : "activities/a_16.json"
+  },
+  {
     "id": "b_01",
     "class" : "2",
     "description" : "Β τάξη - Τα μέρη του σώματος",

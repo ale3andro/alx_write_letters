@@ -18,7 +18,7 @@
 }
 
 // The duration of showing the hint popup
-var hint_duration = 2000;
+var hint_duration = 3000;
 
 $( function() {
     $( "#dialog" ).dialog({
