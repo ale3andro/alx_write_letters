@@ -1,0 +1,82 @@
+[   
+      {
+            "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+            "image" : "images/a_16/zebra.png",
+            "answer" : "Ζέβρα",
+            "answer_to_correct" : "ΖέΒρα",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+            "image" : "images/a_16/fidi.png",
+            "answer" : "Φίδι",
+            "answer_to_correct" : "ΦίΔι",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+            "image" : "images/a_16/kota.png",
+            "answer" : "Κότα",
+            "answer_to_correct" : "ΚόΤα",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+            "image" : "images/a_16/arkouda.png",
+            "answer" : "Αρκούδα",
+            "answer_to_correct" : "ΑρκούΔα",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+            "image" : "images/a_16/xelona.png",
+            "answer" : "Χελώνα",
+            "answer_to_correct" : "ΧεΛώνα",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },  
+      {
+            "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+            "image" : "images/a_16/asvos.png",
+            "answer" : "Ασβός",
+            "answer_to_correct" : "ΑσΒός",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+            "image" : "images/a_16/pontiki.png",
+            "answer" : "Ποντίκι",
+            "answer_to_correct" : "ΠονΤίκι",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+          "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+          "image" : "images/a_16/pigouinos.png",
+          "answer" : "Πιγκουίνος",
+          "answer_to_correct" : "ΠιγκουίΝος",
+          "hints" : "all",
+          "disabled_hints" : "no"
+      },
+      {
+          "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+          "image" : "images/a_16/hippo.png",
+          "answer" : "Ιπποπόταμος",
+          "answer_to_correct" : "ΙπποπόταΜος",
+          "hints" : "all",
+          "disabled_hints" : "no"
+      },
+      {
+          "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+          "image" : "images/a_16/lagos.png",
+          "answer" : "Λαγός",
+          "answer_to_correct" : "ΛαΓός",
+          "hints" : "all",
+          "disabled_hints" : "no"
+      }
+]

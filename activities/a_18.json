@@ -1,0 +1,82 @@
+[   
+      {
+            "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+            "image" : "images/a_15/agelada.png",
+            "answer" : "ΑΓΕΛΑΔΑ",
+            "answer_to_correct" : "ΑΓΕΛΑδΑ",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+            "image" : "images/a_15/aetos.png",
+            "answer" : "ΑΕΤΟΣ",
+            "answer_to_correct" : "ΑΕτΟΣ",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+            "image" : "images/a_15/alepou.png",
+            "answer" : "ΑΛΕΠΟΥ",
+            "answer_to_correct" : "ΑλΕΠΟΥ",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+            "image" : "images/a_15/astakos.png",
+            "answer" : "ΑΣΤΑΚΟΣ",
+            "answer_to_correct" : "ΑΣτΑΚΟΣ",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+            "image" : "images/a_15/batraxos.png",
+            "answer" : "ΒΑΤΡΑΧΟΣ",
+            "answer_to_correct" : "ΒΑΤΡΑχΟΣ",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },  
+      {
+            "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+            "image" : "images/a_15/gata.png",
+            "answer" : "ΓΑΤΑ",
+            "answer_to_correct" : "ΓΑτΑ",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+            "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+            "image" : "images/a_15/skilos.png",
+            "answer" : "ΣΚΥΛΟΣ",
+            "answer_to_correct" : "ΣΚΥλΟΣ",
+            "hints" : "all",
+            "disabled_hints" : "no"
+      },
+      {
+          "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+          "image" : "images/a_15/liontari.png",
+          "answer" : "ΛΙΟΝΤΑΡΙ",
+          "answer_to_correct" : "ΛΙΟΝΤΑρΙ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+      },
+      {
+          "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+          "image" : "images/a_15/rinokeros.png",
+          "answer" : "ΡΙΝΟΚΕΡΟΣ",
+          "answer_to_correct" : "ΡΙΝΟκΕΡΟΣ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+      },
+      {
+          "text": "Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+          "image" : "images/a_15/tigris.png",
+          "answer" : "ΤΙΓΡΗΣ",
+          "answer_to_correct" : "ΤΙγΡΗΣ",
+          "hints" : "all",
+          "disabled_hints" : "no"
+      }
+]

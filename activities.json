@@ -112,6 +112,20 @@
     "filename" : "activities/a_16.json"
   },
   {
+    "id": "a_17",
+    "class" : "1",
+    "description" : "Α τάξη - Ζωάκια - Backspace - Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+    "full_description" : "Α τάξη - Ζωάκια - Backspace - Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
+    "filename" : "activities/a_17.json"
+  },
+  {
+    "id": "a_18",
+    "class" : "1",
+    "description" : "Α τάξη - Ζωάκια - Backspace - Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+    "full_description" : "Α τάξη - Ζωάκια - Backspace - Σβήσε το μικρό γράμμα και γράψε το κεφαλαίο",
+    "filename" : "activities/a_18.json"
+  },
+  {
     "id": "b_01",
     "class" : "2",
     "description" : "Β τάξη - Τα μέρη του σώματος",
