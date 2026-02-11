@@ -1,0 +1,82 @@
+[   
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα σ",
+            "image" : "images/a_03/s_and_l/grape.jpg",
+            "answer" : "σταφύλι",
+            "hints" : "1,2,3,4,5,6",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα σ",
+            "image" : "images/a_03/s_and_l/lizard.jpg",
+            "answer" : "σαύρα",
+            "hints" : "1,2,3,4",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα σ",
+            "image" : "images/a_03/s_and_l/plastic_bag.jpg",
+            "answer" : "σακούλα",
+            "hints" : "1,2,3,4,5,6,7",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα σ",
+            "image" : "images/a_03/s_and_l/saxophone.jpg",
+            "answer" : "σαξόφωνο",
+            "hints" : "1,2,3,4,5,6,7",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα σ",
+            "image" : "images/a_03/s_and_l/soap.jpg",
+            "answer" : "σαπούνι",
+            "hints" : "1,2,3,4,5,6,7",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },  
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα λ",
+            "image" : "images/a_03/s_and_l/cabbage.png",
+            "answer" : "λάχανο",
+            "hints" : "1,2,3,4,5",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα λ",
+            "image" : "images/a_03/s_and_l/lagos.jpg",
+            "answer" : "λαγός",
+            "hints" : "1,2,3,4",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+          "text": "Γράψε μέσα στα κουτάκια το γράμμα λ",
+          "image" : "images/a_03/s_and_l/neck.gif",
+          "answer" : "λαιμός",
+          "hints" : "1,2,3,4,5",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      },
+      {
+          "text": "Γράψε μέσα στα κουτάκια το γράμμα λ",
+          "image" : "images/a_03/s_and_l/lamp.png",
+          "answer" : "λάμπα",
+          "hints" : "1,2,3,4",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      },
+      {
+          "text": "Γράψε μέσα στα κουτάκια το γράμμα λ",
+          "image" : "images/a_03/s_and_l/lemon.jpg",
+          "answer" : "λεμόνι",
+          "hints" : "1,2,3,4,5",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      }
+]

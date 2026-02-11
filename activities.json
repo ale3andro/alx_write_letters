@@ -126,6 +126,20 @@
     "filename" : "activities/a_18.json"
   },
   {
+    "id": "a_19",
+    "class" : "1",
+    "description" : "Α τάξη - Πληκτρολόγιο 101 - φ και ξ",
+    "full_description" : "Α τάξη - Πληκτρολόγιο 101 - φ και ξ",
+    "filename" : "activities/a_19.json"
+  },
+  {
+    "id": "a_20",
+    "class" : "1",
+    "description" : "Α τάξη - Πληκτρολόγιο 101 - σ και λ",
+    "full_description" : "Α τάξη - Πληκτρολόγιο 101 - σ και λ",
+    "filename" : "activities/a_20.json"
+  },
+  {
     "id": "b_01",
     "class" : "2",
     "description" : "Β τάξη - Τα μέρη του σώματος",

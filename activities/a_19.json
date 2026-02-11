@@ -1,0 +1,82 @@
+[   
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα φ",
+            "image" : "images/a_02/f_and_ksi/fidi.jpeg",
+            "answer" : "φίδι",
+            "hints" : "1,2,3",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα φ",
+            "image" : "images/a_02/f_and_ksi/fakes.jpeg",
+            "answer" : "φακές",
+            "hints" : "1,2,3,4",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα φ",
+            "image" : "images/a_02/f_and_ksi/fistiki.jpg",
+            "answer" : "φυστίκι",
+            "hints" : "1,2,3,4,5,6",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα φ",
+            "image" : "images/a_02/f_and_ksi/farmaka.png",
+            "answer" : "φάρμακα",
+            "hints" : "1,2,3,4,5,6",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα φ",
+            "image" : "images/a_02/f_and_ksi/fanari.jpeg",
+            "answer" : "φανάρι",
+            "hints" : "1,2,3,4,5,6",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },  
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα ξ",
+            "image" : "images/a_02/f_and_ksi/ksidi.jpeg",
+            "answer" : "ξύδι",
+            "hints" : "1,2,3",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+            "text": "Γράψε μέσα στα κουτάκια το γράμμα ξ",
+            "image" : "images/a_02/f_and_ksi/ksila.jpeg",
+            "answer" : "ξύλα",
+            "hints" : "1,2,3",
+            "disabled_hints" : "yes",
+            "allow_reload" : "yes"
+      },
+      {
+          "text": "Γράψε μέσα στα κουτάκια το γράμμα ξ",
+          "image" : "images/a_02/f_and_ksi/ksifos.jpg",
+          "answer" : "ξίφος",
+          "hints" : "1,2,3,4,5",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      },
+      {
+          "text": "Γράψε μέσα στα κουτάκια το γράμμα ξ",
+          "image" : "images/a_02/f_and_ksi/ksanthos.png",
+          "answer" : "ξανθός",
+          "hints" : "1,2,3,4,5,6",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      },
+      {
+          "text": "Γράψε μέσα στα κουτάκια το γράμμα ξ",
+          "image" : "images/a_02/f_and_ksi/ksenodoxeio.png",
+          "answer" : "ξενοδοχείο",
+          "hints" : "1,2,3,4,5,6,7,8,9",
+          "disabled_hints" : "yes",
+          "allow_reload" : "yes"
+      }
+]
