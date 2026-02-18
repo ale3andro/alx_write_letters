@@ -2,80 +2,80 @@
       {
             "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
             "image" : "images/a_16/zebra.png",
-            "answer" : "Ζέβρα",
-            "answer_to_correct" : "ΖέΒρα",
+            "answer" : "ζέβρα",
+            "answer_to_correct" : "ζέΒρα",
             "hints" : "all",
             "disabled_hints" : "no"
       },
       {
             "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
             "image" : "images/a_16/fidi.png",
-            "answer" : "Φίδι",
-            "answer_to_correct" : "ΦίΔι",
+            "answer" : "φίδι",
+            "answer_to_correct" : "φίΔι",
             "hints" : "all",
             "disabled_hints" : "no"
       },
       {
             "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
             "image" : "images/a_16/kota.png",
-            "answer" : "Κότα",
-            "answer_to_correct" : "ΚόΤα",
+            "answer" : "κότα",
+            "answer_to_correct" : "κόΤα",
             "hints" : "all",
             "disabled_hints" : "no"
       },
       {
             "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
             "image" : "images/a_16/arkouda.png",
-            "answer" : "Αρκούδα",
-            "answer_to_correct" : "ΑρκούΔα",
+            "answer" : "αρκούδα",
+            "answer_to_correct" : "αρκούΔα",
             "hints" : "all",
             "disabled_hints" : "no"
       },
       {
             "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
             "image" : "images/a_16/xelona.png",
-            "answer" : "Χελώνα",
-            "answer_to_correct" : "ΧεΛώνα",
+            "answer" : "χελώνα",
+            "answer_to_correct" : "χεΛώνα",
             "hints" : "all",
             "disabled_hints" : "no"
       },  
       {
             "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
             "image" : "images/a_16/asvos.png",
-            "answer" : "Ασβός",
-            "answer_to_correct" : "ΑσΒός",
+            "answer" : "ασβός",
+            "answer_to_correct" : "ασΒός",
             "hints" : "all",
             "disabled_hints" : "no"
       },
       {
             "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
             "image" : "images/a_16/pontiki.png",
-            "answer" : "Ποντίκι",
-            "answer_to_correct" : "ΠονΤίκι",
+            "answer" : "ποντίκι",
+            "answer_to_correct" : "πονΤίκι",
             "hints" : "all",
             "disabled_hints" : "no"
       },
       {
           "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
           "image" : "images/a_16/pigouinos.png",
-          "answer" : "Πιγκουίνος",
-          "answer_to_correct" : "ΠιγκουίΝος",
+          "answer" : "πιγκουίνος",
+          "answer_to_correct" : "πιγκουίΝος",
           "hints" : "all",
           "disabled_hints" : "no"
       },
       {
           "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
           "image" : "images/a_16/hippo.png",
-          "answer" : "Ιπποπόταμος",
-          "answer_to_correct" : "ΙπποπόταΜος",
+          "answer" : "ιπποπόταμος",
+          "answer_to_correct" : "ιπποπόταΜος",
           "hints" : "all",
           "disabled_hints" : "no"
       },
       {
           "text": "Σβήσε το κεφαλαίο γράμμα και γράψε το μικρό",
           "image" : "images/a_16/lagos.png",
-          "answer" : "Λαγός",
-          "answer_to_correct" : "ΛαΓός",
+          "answer" : "λαγός",
+          "answer_to_correct" : "λαΓός",
           "hints" : "all",
           "disabled_hints" : "no"
       }
